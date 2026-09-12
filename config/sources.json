@@ -1,0 +1,149 @@
+{
+  "sources": [
+    {
+      "id": "infracciones_2016",
+      "file": "INFRACCIONES 2016.xls",
+      "year": 2016,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2016",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2017",
+      "file": "INFRACCIONES 2017.xls",
+      "year": 2017,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2017",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2018",
+      "file": "INFRACCIONES 2018.xls",
+      "year": 2018,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2018",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2019",
+      "file": "INFRACCIONES 2019.xls",
+      "year": 2019,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2019",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2020",
+      "file": "INFRACCIONES 2020.xls",
+      "year": 2020,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2020 (cambio codificación velocidad)",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2021",
+      "file": "INFRACCIONES 2021.xls",
+      "year": 2021,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2021",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2022",
+      "file": "INFRACCIONES 2022.xls",
+      "year": 2022,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2022 (nuevos códigos alcoholemia)",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2023",
+      "file": "INFRACCIONES 2023.xls",
+      "year": 2023,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2023",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2024",
+      "file": "INFRACCIONES 2024.xls",
+      "year": 2024,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2024",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "infracciones_2025",
+      "file": "INFRACCIONES 2025.xls",
+      "year": 2025,
+      "type": "infracciones_mensuales",
+      "description": "Estadísticas de códigos de infracción por mes - 2025",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "actas_procesadas",
+      "file": "ESTADISTICA ACTAS PROCESADAS 2016-2025.xlsx",
+      "type": "actas_procesadas",
+      "description": "Actas procesadas por mes (fotos vs manuales) 2016-2025",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "actas_resueltas",
+      "file": "ACTAS RESUELTAS 2018-2025.xlsx",
+      "type": "actas_resueltas",
+      "description": "Actas resueltas por mes 2018-2025",
+      "extracted_at": "2026-02-25",
+      "source": "DGAI - GCABA",
+      "access_request": "EX-2026-06205479-GCABA-DGAIGA"
+    },
+    {
+      "id": "acarreos_playas",
+      "file": "Playas Propias.xlsx",
+      "type": "acarreos",
+      "description": "Acarreos a playas propias con detalle por vehículo, motivo, fecha, playa",
+      "extracted_at": "2026-09-10",
+      "source": "DGCATRA - GCABA",
+      "access_request": "EX-2026-38929184-GCABA-DGAIGA"
+    }
+  ],
+  "code_categories": {
+    "alcohol": ["7462", "7463", "7464", "7465", "7466", "7062", "1198", "6187", "6168"],
+    "velocidad": ["6527", "6528", "6534", "6535", "6536", "6537"],
+    "estacionamiento": ["6900"],
+    "peajes": ["6660"],
+    "carriles": ["6760", "6761"],
+    "documentacion": ["6100", "6120", "6161"]
+  },
+  "motivo_acarreo_map": {
+    "ESTACIONAMIENTO": "Estacionamiento",
+    "ALCOHOLEMIA": "Alcoholemia",
+    "ALCO/DOC": "Alcoholemia + Documentación",
+    "UBER": "Transporte irregular (Uber)",
+    "PLACA": "Placa patente",
+    "DOCUMENTACION": "Documentación",
+    "OTROS": "Otros",
+    "ABANDONADO": "Abandonado"
+  }
+}

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Caos de Tránsito · CABA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#ffffff; --bg2:#f6f7f9; --card:#ffffff; --card2:#ffffff;
+  --border:#e3e6ea; --text:#1a202c; --muted:#697386; --accent:#0f766e;
+  --red:#dc2626; --yellow:#d97706; --green:#059669; --blue:#2563eb; --purple:#7c3aed;
+  --mono:'IBM Plex Mono',monospace; --sans:'IBM Plex Sans',sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.5}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+
+/* Header */
+header{padding:56px 0 24px;border-bottom:1px solid var(--border);margin-bottom:36px}
+header .kicker{font-family:var(--mono);font-size:12px;color:var(--accent);letter-spacing:.18em;text-transform:uppercase;margin-bottom:10px}
+header h1{font-size:44px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
+header h1 span{color:var(--accent)}
+header .subt{color:var(--muted);font-size:16px;max-width:640px;margin-top:10px}
+header .meta{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:18px}
+
+/* KPIs */
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1px;background:var(--border);border:1px solid var(--border);border-radius:12px;overflow:hidden;margin-bottom:48px}
+.kpi{background:var(--card);padding:18px 18px 16px}
+.kpi .label{font-family:var(--mono);font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.kpi .val{font-size:26px;font-weight:700;margin-top:6px;font-variant-numeric:tabular-nums}
+.kpi .delta{font-family:var(--mono);font-size:12px;margin-top:4px}
+.kpi .delta.up{color:var(--red)} .kpi .delta.down{color:var(--green)} .kpi .delta.flat{color:var(--muted)}
+
+/* Sections */
+section{margin-bottom:56px}
+section h2{font-size:24px;margin-bottom:6px;letter-spacing:-.01em}
+section .desc{color:var(--muted);font-size:15px;margin-bottom:22px;max-width:760px}
+.chart{background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:22px}
+.chart .title{font-family:var(--mono);font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-bottom:14px}
+
+/* Tabs and filters */
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.tab{background:var(--bg);border:1px solid var(--border);color:var(--muted);font-family:var(--mono);font-size:12px;padding:7px 14px;border-radius:20px;cursor:pointer;transition:all .15s}
+.tab:hover{color:var(--text);border-color:var(--accent)}
+.tab.active{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:700}
+.legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:0;margin-bottom:14px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.legend .item{display:flex;align-items:center;gap:6px}
+.legend .sw{width:10px;height:10px;border-radius:2px;display:inline-block}
+
+/* d3 */
+.axis text{font-family:var(--mono);font-size:11px;fill:var(--muted)}
+.axis path,.axis line{stroke:var(--border)}
+.line{fill:none;stroke-width:2.5;stroke-linecap:round}
+.barlabel{font-family:var(--mono);font-size:11px;fill:var(--muted)}
+
+/* Tables / lists */
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:800px){.grid2{grid-template-columns:1fr}}
+
+/* Tooltip */
+.tip{position:absolute;background:#ffffff;border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-family:var(--mono);font-size:12px;pointer-events:none;opacity:0;transition:opacity .12s;z-index:50;box-shadow:0 8px 24px rgba(26,32,44,.12);max-width:280px}
+.tip .t-title{font-size:12px;font-weight:700;color:var(--text);margin-bottom:4px}
+.tip .t-row{color:var(--muted);margin-top:2px}
+.tip .t-val{color:var(--accent);font-weight:700}
+
+select,input[type=range]{background:#fff;border:1px solid var(--border);color:var(--text);font-family:var(--mono);font-size:12px;padding:8px 10px;border-radius:8px}
+label.field{font-family:var(--mono);font-size:11px;color:var(--muted);margin-right:8px}
+.controls{display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+
+/* Var selector */
+.var-btns{display:flex;gap:6px;flex-wrap:wrap}
+.vbtn{background:transparent;border:1px solid var(--border);color:var(--muted);font-family:var(--mono);font-size:11px;padding:5px 10px;border-radius:6px;cursor:pointer;transition:all .15s}
+.vbtn:hover{color:var(--text)}
+.vbtn.active{background:var(--blue);border-color:var(--blue);color:#fff;font-weight:700}
+
+footer{border-top:1px solid var(--border);padding:28px 0 48px;color:var(--muted);font-family:var(--mono);font-size:11px}
+footer .row{display:flex;gap:24px;flex-wrap:wrap;justify-content:space-between}
+
+a{color:var(--blue);text-decoration:none}
+b{color:var(--text)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kicker">Observatorio Ciudadano · Visualizando</div>
+  <h1>Caos de <span>Tránsito</span> CABA</h1>
+  <p class="subt">Infracciones viales, actas, controles de alcoholemia y acarreos en la Ciudad de Buenos Aires. Datos obtenidos por Ley 104 de Acceso a la Información Pública (DGAI y DGCATRA del GCBA).</p>
+  <p class="meta" id="meta-info">Cargando...</p>
+</header>
+
+<div class="kpis" id="kpis"></div>
+
+<section id="s-resumen">
+  <h2>El tablero de una ciudad que factura</h2>
+  <p class="desc">En 2025 se proyectaron <b>6,1 millones de actas</b>, récord histórico. La velocidad y la evasión de peajes explican casi el 75% de las infracciones. Este panel cruza las tres palancas del control vial: laburar, cobrar y acarrear.</p>
+</section>
+
+<section id="s-totales">
+  <h2>Volumen total de infracciones</h2>
+  <p class="desc">Evolución de actas de infracción procesadas y resueltas año a año. Se observa el impacto de la pandemia (2020), la recuperación y el pico de 2024-2025 impulsado por radares y autopistas.</p>
+  <div class="chart"><div class="title">Actas por año (2016-2025)</div>
+    <div class="tabs" id="tab-totales">
+      <span class="tab active" data-mode="total">Infracciones totales</span>
+      <span class="tab" data-mode="proc">Procesadas vs Resueltas</span>
+      <span class="tab" data-mode="fotos">Fotos vs Manuales</span>
+    </div>
+    <div id="viz-totales"></div>
+  </div>
+</section>
+
+<section id="s-cat">
+  <h2>¿De qué se multa?</h2>
+  <p class="desc">Composición por categoría de código de infracción. En 2020 la ciudad cambió la codificación de exceso de velocidad (de km/h a % sobre el límite) y en 2022 sumó los códigos específicos de alcohol (7462, 7463, 7464).</p>
+  <div class="legend" id="legend-cat"></div>
+  <div class="chart">
+    <div class="title">Evolución por categoría (área 100% o total)</div>
+    <div class="tabs" id="tab-cat">
+      <span class="tab active" data-mode="stack">Apilado</span>
+      <span class="tab" data-mode="pct">% participación</span>
+    </div>
+    <div id="viz-cat"></div>
+  </div>
+</section>
+
+<section id="s-top">
+  <h2>Los códigos estrella</h2>
+  <p class="desc">Top 20 tipos de infracción en 2025. Tres de cada cuatro actas provienen de exceso de velocidad, peaje y carriles prohibidos.</p>
+  <div class="chart">
+    <div class="title">Top 20 códigos · 2025</div>
+    <div class="controls">
+      <label class="field">Año:</label>
+      <input type="range" id="top-year" min="2016" max="2025" value="2025" step="1">
+      <span id="top-year-val" style="font-family:mono;font-size:12px;color:var(--muted)">2025</span>
+      <div class="var-btns" id="top-var"></div>
+    </div>
+    <div id="viz-top"></div>
+  </div>
+</section>
+
+<section id="s-alcohol">
+  <h2>Alcoholemia: el control que incomoda</h2>
+  <p class="desc">Las actas por alcohol se dispararon con los nuevos códigos en 2022: pasaron de ~200 a más de 6.700 en ese año. El "+55" que bajó la tolerancia a cero para motos y transporte en 2022 se lee en el detalle.</p>
+  <div class="grid2">
+    <div class="chart"><div class="title">Evolución anual (alcohol + negativa)</div><div id="viz-alcohol"></div></div>
+    <div class="chart"><div class="title">Detalle por código</div><div id="viz-alcohol-det"></div></div>
+  </div>
+</section>
+
+<section id="s-acarreos">
+  <h2>Los que terminan en la playa</h2>
+  <p class="desc">Vehículos acarreados a playas de depósito desde julio 2024. Los motivos principales: estacionamiento indebido, alcohol y transporte irregular (Uber).</p>
+  <div class="chart">
+    <div class="title">Acarreos por motivo y mes</div>
+    <div class="legend" id="legend-acarreos"></div>
+    <div class="tabs" id="tab-acarreos">
+      <span class="tab active" data-mode="mensual">Serie mensual</span>
+      <span class="tab" data-mode="tipo">Por tipo de vehículo</span>
+      <span class="tab" data-mode="playa">Por playa</span>
+    </div>
+    <div id="viz-acarreos"></div>
+  </div>
+</section>
+
+<section id="s-explorador">
+  <h2>Explorador de códigos</h2>
+  <p class="desc">Buscá cualquier código de infracción y seguí su evolución histórica.</p>
+  <div class="controls">
+    <select id="code-select"></select>
+    <div id="code-info" style="font-family:mono;font-size:12px;color:var(--muted)"></div>
+  </div>
+  <div class="chart"><div class="title">Evolución del código seleccionado</div><div id="viz-code"></div></div>
+</section>
+
+<footer>
+  <div class="row">
+    <span>Datos: DGAI · DGCATRA · GCBA — Ley 104 (EX-2026-06205479 / EX-2026-38929184)</span>
+    <span>Hecho con <b>Python</b> + <b>D3.js</b> · <a href="https://github.com/visualizando/caosDeTransito">repo</a></span>
+  </div>
+</footer>
+
+</div>
+
+<div class="tip" id="tip"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

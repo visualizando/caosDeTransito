@@ -1,0 +1,1510 @@
+anio,codigo,descripcion,categoria,total
+2016,1111,Expediente Infraccion de Transito,otras,7180
+2016,1149,Otras infracciones de transito,otras,1426
+2016,1198,Conducir ebrio,alcohol,4
+2016,6100,Conducir sin portar la licencia,documentacion,1600
+2016,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,158
+2016,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,28
+2016,6120,Conducir con Licencia Vencida o Caduca,documentacion,1654
+2016,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,17
+2016,6122,Licencia o documentación habilitante vencida (transporte público),otras,60
+2016,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,32
+2016,6140,Conducir c/licencia conductor No Correspondiente,otras,237
+2016,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,14
+2016,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,17
+2016,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,3199
+2016,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,5
+2016,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,4087
+2016,6164,"Exceso de Velocidad en màs de 40Km/h en vías rápidas (taxis, pasajeros, escolares o remises)",otras,95
+2016,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,1
+2016,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,6
+2016,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,1057
+2016,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,6
+2016,6169,"Conductor que dañe, altere o retire dispositivo",otras,7
+2016,6170,No exhibir documentacion segun reglamentacion,otras,1
+2016,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,26
+2016,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,5
+2016,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,2
+2016,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,13
+2016,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,1
+2016,6185,Carga y descarga (propietario y/o responsable del comercio),otras,49
+2016,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,3112
+2016,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,10
+2016,6190,Falta poliza seguro contra terceros,otras,1506
+2016,6191,Falta poliza seguro contra terceros (no cuente),otras,1179
+2016,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,10027
+2016,6210,Placas dominio(Motos). Falta/antirreglamentarias/mal estado,otras,1
+2016,6220,Circular con Placas de OTRO dominio.,otras,2
+2016,6230,Circular con equipo Antiradar o Antifoto,otras,4
+2016,6240,Revision tecnica No porte certificado,otras,27
+2016,6241,Revision tecnica (no realizarla o certificado vencido),otras,42
+2016,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,1
+2016,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,112
+2016,6270,No uso cinturon de seguridad,otras,14396
+2016,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,176
+2016,6272,Sistemas o dispositivos de retencion infantil,otras,1
+2016,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,7
+2016,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,247
+2016,6310,Verter liquido combustible o aguas servidas,otras,21
+2016,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,850
+2016,6350,Uso indebido e bocina,otras,709
+2016,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,21
+2016,6390,Uso Paragolpe antirreglamentario,otras,32
+2016,6410,Falta Paragolpe,otras,60
+2016,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,372
+2016,6450,"Falta/sin vision, Espejos Retrovisores",otras,1012
+2016,6470,Falta Tapa Combustible,otras,35
+2016,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,79121
+2016,6492,Conductor redactando/enviando mensaje de texto,otras,9811
+2016,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,9352
+2016,6519,No respetar limites de velocidad minimos,velocidad,5
+2016,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,179175
+2016,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,138215
+2016,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,1123034
+2016,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,253002
+2016,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,96765
+2016,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,15263
+2016,6531,Exceso Velocidad más de 140Km/h,velocidad,5547
+2016,6540,Circulación en sentido contrario,velocidad,2135
+2016,6560,Invasión parcial de vías,velocidad,653
+2016,6580,No respetar carriles/Maniobras Peligrosas,velocidad,3946
+2016,6600,Girar a izquierda/derecha en lugar prohibido,otras,22192
+2016,6620,No respetar paso o cartel PARE en bocacalle,otras,97
+2016,6640,Marcha atras en forma indebida,otras,244
+2016,6660,Forzar barrera/evadir pago peaje autopista,peajes,93455
+2016,6670,Infrigir normas Transporte Sustancias Peligrosas,otras,4
+2016,6680,Obstruccion de Bocacalle,otras,1120
+2016,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,73
+2016,6720,Interrumpir Filas Escolares,otras,9
+2016,6740,No respetar Senda Peatonal/Paso Peaton,otras,22446
+2016,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,104848
+2016,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,6848
+2016,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,312
+2016,6780,Prohibición circular según DIA/HORA/CARACTERISTICA vehíc.,otras,210821
+2016,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,363
+2016,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,517
+2016,6830,Ocupar lugar no destinado para viajar,otras,18
+2016,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,78
+2016,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,16
+2016,6860,No Cumplir Normas s/requisitos Vehículos  Escolares c/habilitación,otras,3
+2016,6862,Conducir sin poseer la licencia,otras,1408
+2016,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,77
+2016,6871,Servicio de Taxis Sin Habilitación,otras,31
+2016,6872,Servicio de radio taxis que incumpla la normativa legal vigente,otras,9
+2016,6874,Radio taxi con IRA vencido y/o que a su baja no hubiere eliminado las señales que lo identificaban,otras,3
+2016,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,3
+2016,6876,No aplicación de la tarifa de taxi vigente,otras,3
+2016,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,514
+2016,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,19
+2016,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,4
+2016,6890,Carga y descarga fuera de hora/lugar prohibido,otras,816
+2016,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,1122415
+2016,6906,Detención en Zona Exclusiva de Motos,estacionamiento,865
+2016,6910,Estac. lugar reservado(rampa/discap/paradas/garage/otros),estacionamiento,52238
+2016,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,30332
+2016,6930,Estac. sobre vereda/parte de vereda(Particular/Moto),estacionamiento,1
+2016,6935,Estacionamiento en areas peatonales,estacionamiento,36816
+2016,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,26
+2016,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,20
+2016,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,116
+2016,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,9063
+2016,7001,Infraccion regimen motovehiculos,alcohol_otros,11955
+2016,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,45
+2016,7021,Infraccion regimen ciclorodados,alcohol_otros,136
+2016,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,13
+2016,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,164
+2016,7050,Violar Luz Roja,alcohol_otros,58191
+2016,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,141
+2016,7063,Contribución a conducción peligrosa.,alcohol_otros,14
+2016,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,233
+2016,7065,Uso indebido de luces,alcohol_otros,1865
+2016,7066,Utilizacion de luces prohibidas,alcohol_otros,16
+2016,7551,Alteraciones en el reloj taxímetro (titular y/o mandataria),alcohol_otros,2
+2016,7552,Alteraciones con dispositivos mecánicos electrónicos a fin de incrementar la tarifa,alcohol_otros,2
+2016,8880,Incumplimiento de identificacion de conductor,otras,2070
+2016,8885,"Paradas, otras señales y simbolos",otras,26
+2016,8886,Conductores principiantes,otras,8
+2016,8900,No respetar límite velocidad Ley Nacional 24449,otras,1
+2016,8910,Violación de Barreras Ferroviarias - Particular,otras,115
+2016,8911,Violación de Barreras Ferroviarias - Transporte,otras,6
+2016,8919,Asignación de viajes de radio taxi sin autorización,otras,8
+2017,1111,Expediente Infraccion de Transito,otras,13170
+2017,1131,Cruzar vias con barreras totalmente bajas,otras,57
+2017,1149,Otras infracciones de transito,otras,2284
+2017,6100,Conducir sin portar la licencia,documentacion,3267
+2017,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,202
+2017,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,54
+2017,6120,Conducir con Licencia Vencida o Caduca,documentacion,3114
+2017,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,114
+2017,6122,Licencia o documentación habilitante vencida (transporte público),otras,106
+2017,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,66
+2017,6140,Conducir c/licencia conductor No Correspondiente,otras,880
+2017,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,32
+2017,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,25
+2017,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,5786
+2017,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,11
+2017,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,2260
+2017,6164,"Exceso de Velocidad en màs de 40Km/h en vías rápidas (taxis, pasajeros, escolares o remises)",otras,104
+2017,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,1
+2017,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,29825
+2017,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,9
+2017,6169,"Conductor que dañe, altere o retire dispositivo",otras,7
+2017,6170,No exhibir documentacion segun reglamentacion,otras,4
+2017,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,48
+2017,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,11
+2017,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,6
+2017,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,12
+2017,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,6
+2017,6185,Carga y descarga (propietario y/o responsable del comercio),otras,95
+2017,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,7095
+2017,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,14
+2017,6190,Falta poliza seguro contra terceros,otras,3284
+2017,6191,Falta poliza seguro contra terceros (no cuente),otras,2788
+2017,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,17709
+2017,6220,Circular con Placas de OTRO dominio.,otras,12
+2017,6230,Circular con equipo Antiradar o Antifoto,otras,38
+2017,6240,Revision tecnica No porte certificado,otras,420
+2017,6241,Revision tecnica (no realizarla o certificado vencido),otras,2505
+2017,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,25863
+2017,6243,Incumplimiento grabado de autopartes (Gestor/Mandat/Concesionaria/Intermediario),otras,1
+2017,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,287
+2017,6270,No uso cinturon de seguridad,otras,17735
+2017,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,1222
+2017,6272,Sistemas o dispositivos de retencion infantil,otras,7
+2017,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,11
+2017,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,208
+2017,6310,Verter liquido combustible o aguas servidas,otras,85
+2017,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,717
+2017,6350,Uso indebido e bocina,otras,922
+2017,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,27
+2017,6390,Uso Paragolpe antirreglamentario,otras,34
+2017,6410,Falta Paragolpe,otras,87
+2017,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,405
+2017,6450,"Falta/sin vision, Espejos Retrovisores",otras,1383
+2017,6470,Falta Tapa Combustible,otras,72
+2017,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,160947
+2017,6492,Conductor redactando/enviando mensaje de texto,otras,17369
+2017,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,18476
+2017,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,268522
+2017,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,165505
+2017,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,1180307
+2017,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,168707
+2017,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,42454
+2017,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,8146
+2017,6531,Exceso Velocidad más de 140Km/h,velocidad,3027
+2017,6540,Circulación en sentido contrario,velocidad,4235
+2017,6550,Circular en sentido contrario calle/ave. 1 mano (carga/pasajeros),velocidad,1
+2017,6560,Invasión parcial de vías,velocidad,850
+2017,6580,No respetar carriles/Maniobras Peligrosas,velocidad,9022
+2017,6600,Girar a izquierda/derecha en lugar prohibido,otras,38729
+2017,6620,No respetar paso o cartel PARE en bocacalle,otras,120
+2017,6640,Marcha atras en forma indebida,otras,386
+2017,6660,Forzar barrera/evadir pago peaje autopista,peajes,60575
+2017,6670,Infrigir normas Transporte Sustancias Peligrosas,otras,6
+2017,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,1209
+2017,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,101
+2017,6720,Interrumpir Filas Escolares,otras,14
+2017,6740,No respetar Senda Peatonal/Paso Peaton,otras,22889
+2017,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,49626
+2017,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,11904
+2017,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,768
+2017,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,215139
+2017,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,10
+2017,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,2
+2017,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,1008
+2017,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,700
+2017,6830,Ocupar lugar no destinado para viajar,otras,17
+2017,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,33
+2017,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,11
+2017,6860,No Cumplir Normas s/requisitos Vehículos  Escolares c/habilitación,otras,12
+2017,6861,No Cumplir Normas  s/requisitos Vehículos Escolares sin habilitación,otras,1
+2017,6862,Conducir sin poseer la licencia,otras,4094
+2017,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,61
+2017,6871,Servicio de Taxis Sin Habilitación,otras,53
+2017,6872,Servicio de radio taxis que incumpla la normativa legal vigente,otras,29
+2017,6874,Radio taxi con IRA vencido y/o que a su baja no hubiere eliminado las señales que lo identificaban,otras,1
+2017,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,1
+2017,6876,No aplicación de la tarifa de taxi vigente,otras,1
+2017,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,550
+2017,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,31
+2017,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,5
+2017,6890,Carga y descarga fuera de hora/lugar prohibido,otras,940
+2017,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,915451
+2017,6901,Estac. lugar prohib./forma indebida/antirreglamentaria(carga/pasajeros),estacionamiento,1
+2017,6906,Detención en Zona Exclusiva de Motos,estacionamiento,577
+2017,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,76270
+2017,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,37791
+2017,6935,Estacionamiento en areas peatonales,estacionamiento,79701
+2017,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,32
+2017,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,27
+2017,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,48
+2017,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,19812
+2017,7000,Circular sin utilizar Casco-conductor/acompañante(Moto/Ciclom./Motoneta),alcohol_otros,2
+2017,7001,Infraccion regimen motovehiculos,alcohol_otros,19824
+2017,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,83
+2017,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,40
+2017,7021,Infraccion regimen ciclorodados,alcohol_otros,117
+2017,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,8
+2017,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,3110
+2017,7050,Violar Luz Roja,alcohol_otros,106921
+2017,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,182
+2017,7063,Contribución a conducción peligrosa.,alcohol_otros,14
+2017,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,247
+2017,7065,Uso indebido de luces,alcohol_otros,3038
+2017,7066,Utilizacion de luces prohibidas,alcohol_otros,42
+2017,7530,Circular en Infraccion Normas regulan servicio Remise/Escolares/Taxi,alcohol_otros,45
+2017,7540,No cumplir Norma de habilitacion tecnica Remise/Escolares/Taxi,alcohol_otros,12
+2017,7550,Explotar sin autorización para prestar el servicio Remise/Escolares/Taxi,alcohol_otros,11
+2017,7551,Alteraciones en el reloj taxímetro (titular y/o mandataria),alcohol_otros,1
+2017,7552,Alteraciones con dispositivos mecánicos electrónicos a fin de incrementar la tarifa,alcohol_otros,2
+2017,8080,Abandonar vehiculo en la via publica,otras,2981
+2017,8880,Incumplimiento de identificacion de conductor,otras,1051
+2017,8884,Señalizacion de obras,otras,1
+2017,8885,"Paradas, otras señales y simbolos",otras,13
+2017,8886,Conductores principiantes,otras,13
+2017,8900,No respetar límite velocidad Ley Nacional 24449,otras,1
+2017,8910,Violación de Barreras Ferroviarias - Particular,otras,336
+2017,8911,Violación de Barreras Ferroviarias - Transporte,otras,36
+2017,8915,Otorgamiento de viajes de manera no autorizada,otras,1
+2017,8916,Habilitación de empresa de radio taxi vencida (mas de 30 y hasta 180 días),otras,3
+2017,8920,Asignación de viajes de radio taxi a vehículos sin licencias de taxis (quien asigne viajes),otras,2
+2017,8923,Promociones de radio taxi,otras,1
+2017,8928,Personal de la empresa de radio taxi (trabajadores sin cumplir registración según leyes laborales)),otras,1
+2017,8930,Horario estación central,otras,2
+2017,8939,Equipo no homologado (quien preste servicios sin haber verificado y/o registrado ante la Autoridad,otras,6
+2018,1111,Expediente Infraccion de Transito,otras,6072
+2018,1131,Cruzar vias con barreras totalmente bajas,otras,15
+2018,1149,Otras infracciones de transito,otras,21
+2018,1842,Infrac normas regulan circulacion bicicletas,otras,1
+2018,6100,Conducir sin portar la licencia,documentacion,4229
+2018,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,112
+2018,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,23
+2018,6120,Conducir con Licencia Vencida o Caduca,documentacion,2579
+2018,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,615
+2018,6122,Licencia o documentación habilitante vencida (transporte público),otras,240
+2018,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,40
+2018,6140,Conducir c/licencia conductor No Correspondiente,otras,1902
+2018,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,57
+2018,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,37
+2018,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,7713
+2018,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,10
+2018,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,842
+2018,6164,"Exceso de Velocidad en màs de 40Km/h en vías rápidas (taxis, pasajeros, escolares o remises)",otras,35
+2018,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,3
+2018,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,7
+2018,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,3956
+2018,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,6
+2018,6169,"Conductor que dañe, altere o retire dispositivo",otras,8
+2018,6170,No exhibir documentacion segun reglamentacion,otras,1
+2018,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,1026
+2018,6172,Obstruccion de circulacion al transito,otras,11
+2018,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,23
+2018,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,9
+2018,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,2
+2018,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,11
+2018,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,14
+2018,6185,Carga y descarga (propietario y/o responsable del comercio),otras,505
+2018,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,4862
+2018,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,24
+2018,6190,Falta poliza seguro contra terceros,otras,4079
+2018,6191,Falta poliza seguro contra terceros (no cuente),otras,3085
+2018,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,23452
+2018,6210,Placas dominio(Motos). Falta/antirreglamentarias/mal estado,otras,1
+2018,6220,Circular con Placas de OTRO dominio.,otras,25
+2018,6230,Circular con equipo Antiradar o Antifoto,otras,52
+2018,6240,Revision tecnica No porte certificado,otras,473
+2018,6241,Revision tecnica (no realizarla o certificado vencido),otras,3488
+2018,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,265812
+2018,6243,Incumplimiento grabado de autopartes (Gestor /Mandat /Concesionaria /Intermediario ),otras,67
+2018,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,2026
+2018,6270,No uso cinturon de seguridad,otras,37230
+2018,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,141
+2018,6272,Sistemas o dispositivos de retencion infantil,otras,1519
+2018,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,22
+2018,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,70
+2018,6310,Verter liquido combustible o aguas servidas,otras,29
+2018,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,1400
+2018,6350,Uso indebido e bocina,otras,1440
+2018,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,168
+2018,6390,Uso Paragolpe antirreglamentario,otras,51
+2018,6410,Falta Paragolpe,otras,98
+2018,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,329
+2018,6450,"Falta/sin vision, Espejos Retrovisores",otras,2705
+2018,6470,Falta Tapa Combustible,otras,14
+2018,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,190505
+2018,6492,Conductor redactando/enviando mensaje de texto,otras,23512
+2018,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,17045
+2018,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,167436
+2018,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,95637
+2018,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,568922
+2018,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,64266
+2018,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,20930
+2018,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,2620
+2018,6531,Exceso Velocidad más de 140Km/h,velocidad,1231
+2018,6540,Circulación en sentido contrario,velocidad,8839
+2018,6560,Invasión parcial de vías,velocidad,155
+2018,6580,No respetar carriles/Maniobras Peligrosas,velocidad,18507
+2018,6600,Girar a izquierda/derecha en lugar prohibido,otras,27936
+2018,6620,No respetar paso o cartel PARE en bocacalle,otras,59
+2018,6640,Marcha atras en forma indebida,otras,2243
+2018,6660,Forzar barrera/evadir pago peaje autopista,peajes,134804
+2018,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,4843
+2018,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,73
+2018,6720,Interrumpir Filas Escolares,otras,14
+2018,6740,No respetar Senda Peatonal/Paso Peaton,otras,27344
+2018,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,106561
+2018,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,31635
+2018,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,3377
+2018,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,434655
+2018,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,46
+2018,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,16
+2018,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,1150
+2018,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,1504
+2018,6830,Ocupar lugar no destinado para viajar,otras,25
+2018,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,79
+2018,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,96
+2018,6860,No Cumplir Normas s/requisitos Vehículos  Escolares c/habilitación,otras,5
+2018,6862,Conducir sin poseer la licencia,otras,4567
+2018,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,149
+2018,6871,Servicio de Taxis Sin Habilitación,otras,67
+2018,6873,Radio taxi que no este abonado a una estación central o difiera estación abonada,otras,2
+2018,6874,Radio taxi con IRA vencido y/o que a su baja no hubiere eliminado las señales que lo identificaban,otras,3
+2018,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,6
+2018,6876,No aplicación de la tarifa de taxi vigente,otras,7
+2018,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,1976
+2018,6878,Requisitos de los vehiculos de transporte de carga,otras,1
+2018,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,6
+2018,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,44
+2018,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,20
+2018,6890,Carga y descarga fuera de hora/lugar prohibido,otras,2525
+2018,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,1099344
+2018,6906,Detención en Zona Exclusiva de Motos,estacionamiento,318
+2018,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,88636
+2018,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,23383
+2018,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,37597
+2018,6935,Estacionamiento en areas peatonales,estacionamiento,66076
+2018,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,27
+2018,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,81
+2018,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,75
+2018,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,30149
+2018,7001,Infraccion regimen motovehiculos,alcohol_otros,12173
+2018,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,2214
+2018,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,35
+2018,7021,Infraccion regimen ciclorodados,alcohol_otros,63
+2018,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,20
+2018,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,21951
+2018,7050,Violar Luz Roja,alcohol_otros,113291
+2018,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,149
+2018,7063,Contribución a conducción peligrosa.,alcohol_otros,12
+2018,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,2135
+2018,7065,Uso indebido de luces,alcohol_otros,1854
+2018,7066,Utilizacion de luces prohibidas,alcohol_otros,356
+2018,7530,Circular en Infraccion Normas regulan servicio Remise/Escolares/Taxi,alcohol_otros,2943
+2018,7540,No cumplir Norma de habilitacion tecnica Remise/Escolares/Taxi,alcohol_otros,29
+2018,7550,Explotar sin autorización para prestar el servicio Remise/Escolares/Taxi,alcohol_otros,922
+2018,7551,Alteraciones en el reloj taxímetro (titular y/o mandataria),alcohol_otros,3
+2018,7552,Alteraciones con dispositivos mecánicos electrónicos a fin de incrementar la tarifa,alcohol_otros,1
+2018,8080,Abandonar vehiculo en la via publica,otras,1600
+2018,8880,Incumplimiento de identificacion de conductor,otras,534
+2018,8884,Señalizacion de obras,otras,11
+2018,8885,"Paradas, otras señales y simbolos",otras,38
+2018,8886,Conductores principiantes,otras,19
+2018,8900,No respetar límite velocidad Ley Nacional 24449,otras,3
+2018,8910,Violación de Barreras Ferroviarias - Particular,otras,1045
+2018,8911,Violación de Barreras Ferroviarias - Transporte,otras,47
+2018,8915,Otorgamiento de viajes de manera no autorizada,otras,1
+2018,8917,Habilitación de empresa de radio taxi vencida (de 180 y hasta 360 días),otras,1
+2018,8920,Asignación de viajes de radio taxi a vehículos sin licencias de taxis (quien asigne viajes),otras,1
+2018,8921,"Asignación de viaje de radio taxi a vehículos sin licencias de taxis (titular, conductor o resp.)",otras,1
+2018,8922,Requisitos del abonado,otras,1
+2018,8924,Incumplimiento a la autorización para funcionar como radio taxi,otras,2
+2018,8925,Nomina de abonados (empresa que no comunique detalle abonados a Autoridad Aplicación,otras,2
+2018,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,16
+2018,8928,Personal de la empresa de radio taxi (trabajadores sin cumplir registración según leyes laborales)),otras,1
+2018,8933,Recargo radio taxi,otras,1
+2018,8935,Taxi con cartelería sin abono,otras,1
+2018,8937,Servicio de radio taxi sin abono,otras,1
+2018,8939,Equipo no homologado (quien preste servicios sin haber verificado y/o registrado ante la Autoridad,otras,3
+2018,8940,Certificado de interconexión radioeléctrica,otras,2
+2018,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,26
+2018,8943,Vehic transporte pasajeros no cumple con VTV,otras,5
+2018,8944,Vehic transporte pasajeros en infraccion,otras,5
+2019,1111,Expediente Infraccion de Transito,otras,11549
+2019,1149,Otras infracciones de transito,otras,5
+2019,6100,Conducir sin portar la licencia,documentacion,3753
+2019,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,104
+2019,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,19
+2019,6120,Conducir con Licencia Vencida o Caduca,documentacion,2962
+2019,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,344
+2019,6122,Licencia o documentación habilitante vencida (transporte público),otras,180
+2019,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,50
+2019,6140,Conducir c/licencia conductor No Correspondiente,otras,1711
+2019,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,33
+2019,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,13
+2019,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,8278
+2019,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,4
+2019,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,299
+2019,6164,"Exceso de Velocidad en màs de 40Km/h en vías rápidas (taxis, pasajeros, escolares o remises)",otras,25
+2019,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,10
+2019,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,1455
+2019,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,3
+2019,6169,"Conductor que dañe, altere o retire dispositivo",otras,4
+2019,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,759
+2019,6172,Obstruccion de circulacion al transito,otras,144
+2019,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,16
+2019,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,22
+2019,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,4
+2019,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,34
+2019,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,6
+2019,6185,Carga y descarga (propietario y/o responsable del comercio),otras,348
+2019,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,5348
+2019,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,16
+2019,6190,Falta poliza seguro contra terceros,otras,4181
+2019,6191,Falta poliza seguro contra terceros (no cuente),otras,3761
+2019,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,20422
+2019,6220,Circular con Placas de OTRO dominio.,otras,17
+2019,6230,Circular con equipo Antiradar o Antifoto,otras,56
+2019,6240,Revision tecnica No porte certificado,otras,489
+2019,6241,Revision tecnica (no realizarla o certificado vencido),otras,3427
+2019,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,50
+2019,6243,Incumplimiento grabado de autopartes (Gestor /Mandat /Concesionaria /Intermediario ),otras,2
+2019,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,1544
+2019,6270,No uso cinturon de seguridad,otras,15073
+2019,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,7
+2019,6272,Sistemas o dispositivos de retencion infantil,otras,1490
+2019,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,12
+2019,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,33
+2019,6310,Verter liquido combustible o aguas servidas,otras,11
+2019,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,157
+2019,6350,Uso indebido e bocina,otras,997
+2019,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,38
+2019,6390,Uso Paragolpe antirreglamentario,otras,49
+2019,6410,Falta Paragolpe,otras,94
+2019,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,267
+2019,6450,"Falta/sin vision, Espejos Retrovisores",otras,2614
+2019,6470,Falta Tapa Combustible,otras,9
+2019,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,125765
+2019,6492,Conductor redactando/enviando mensaje de texto,otras,22594
+2019,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,11084
+2019,6519,No respetar limites de velocidad minimos,velocidad,1
+2019,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,35866
+2019,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,39783
+2019,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,207700
+2019,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,45010
+2019,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,9689
+2019,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,1868
+2019,6531,Exceso Velocidad más de 140Km/h,velocidad,527
+2019,6533,Exceso de Velocidad (para ser validado en DGAI),velocidad,1
+2019,6540,Circulación en sentido contrario,velocidad,8332
+2019,6560,Invasión parcial de vías,velocidad,114
+2019,6580,No respetar carriles/Maniobras Peligrosas,velocidad,15109
+2019,6600,Girar a izquierda/derecha en lugar prohibido,otras,15371
+2019,6620,No respetar paso o cartel PARE en bocacalle,otras,29
+2019,6640,Marcha atras en forma indebida,otras,1934
+2019,6660,Forzar barrera/evadir pago peaje autopista,peajes,35630
+2019,6670,Infrigir normas Transporte Sustancias Peligrosas,otras,1
+2019,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,4229
+2019,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,68
+2019,6720,Interrumpir Filas Escolares,otras,12
+2019,6740,No respetar Senda Peatonal/Paso Peaton,otras,16397
+2019,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,54168
+2019,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,14829
+2019,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,1776
+2019,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,1233879
+2019,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,50
+2019,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,9
+2019,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,974
+2019,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,5262
+2019,6830,Ocupar lugar no destinado para viajar,otras,29
+2019,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,261
+2019,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,165
+2019,6860,No Cumplir Normas s/requisitos Vehículos  Escolares c/habilitación,otras,1
+2019,6862,Conducir sin poseer la licencia,otras,5740
+2019,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,256
+2019,6871,Servicio de Taxis Sin Habilitación,otras,44
+2019,6872,Servicio de radio taxis que incumpla la normativa legal vigente,otras,1
+2019,6873,Radio taxi que no este abonado a una estación central o difiera estación abonada,otras,1
+2019,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,3
+2019,6876,No aplicación de la tarifa de taxi vigente,otras,39
+2019,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,78
+2019,6878,Requisitos de los vehiculos de transporte de carga,otras,159
+2019,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,133
+2019,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,49
+2019,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,24
+2019,6882,Prestacion servicio publico Taxis c/licencia taxi vencida (dentro 360 vencida),otras,119
+2019,6883,Prestacion servicio publico Taxis c/licencia vencida (mas de 360 vencida),otras,33
+2019,6890,Carga y descarga fuera de hora/lugar prohibido,otras,1866
+2019,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,1038057
+2019,6906,Detención en Zona Exclusiva de Motos,estacionamiento,144
+2019,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,91294
+2019,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,22997
+2019,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,32071
+2019,6935,Estacionamiento en areas peatonales,estacionamiento,61555
+2019,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,26
+2019,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,127
+2019,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,58
+2019,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,22231
+2019,7001,Infraccion regimen motovehiculos,alcohol_otros,7827
+2019,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,3104
+2019,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,8
+2019,7021,(Ciclorodado) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,851
+2019,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,8
+2019,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,26555
+2019,7050,Violar Luz Roja,alcohol_otros,72095
+2019,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,195
+2019,7063,Contribución a conducción peligrosa.,alcohol_otros,14
+2019,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,2845
+2019,7065,Uso indebido de luces,alcohol_otros,1431
+2019,7066,Utilizacion de luces prohibidas,alcohol_otros,575
+2019,7530,Circular en Infraccion Normas regulan servicio Remise/Escolares/Taxi,alcohol_otros,212
+2019,7540,No cumplir Norma de habilitacion tecnica Remise/Escolares/Taxi,alcohol_otros,1
+2019,7551,Alteraciones en el reloj taxímetro (titular y/o mandataria),alcohol_otros,1
+2019,8080,Abandonar vehiculo en la via publica,otras,339
+2019,8880,Incumplimiento de identificacion de conductor,otras,241
+2019,8884,Señalizacion de obras,otras,17
+2019,8885,"Paradas, otras señales y simbolos",otras,31
+2019,8886,Conductores principiantes,otras,19
+2019,8900,No respetar límite velocidad Ley Nacional 24449,otras,3
+2019,8910,Violación de Barreras Ferroviarias - Particular,otras,382
+2019,8911,Violación de Barreras Ferroviarias - Transporte,otras,17
+2019,8914,Empresa de radio taxi sin habilitación,otras,12
+2019,8915,Otorgamiento de viajes de manera no autorizada,otras,13
+2019,8916,Habilitación de empresa de radio taxi vencida (mas de 30 y hasta 180 días),otras,3
+2019,8917,Habilitación de empresa de radio taxi vencida (de 180 y hasta 360 días),otras,1
+2019,8919,Asignación de viajes de radio taxi sin autorización,otras,1
+2019,8920,Asignación de viajes de radio taxi a vehículos sin licencias de taxis (quien asigne viajes),otras,1
+2019,8924,Incumplimiento a la autorización para funcionar como radio taxi,otras,1
+2019,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,9
+2019,8930,Horario estación central,otras,1
+2019,8935,Taxi con cartelería sin abono,otras,2
+2019,8938,Equipo no homologado (titular y/o responsable abonado a una empresa),otras,1
+2019,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,2064
+2019,8943,Vehic transporte pasajeros no cumple con VTV,otras,172
+2019,8944,Vehic transporte pasajeros en infraccion,otras,912
+2020,1111,Expediente Infraccion de Transito,otras,4707
+2020,1149,Otras infracciones de transito,otras,5
+2020,2014,Cruzar vias ferreas en contravencion (transportes),otras,1
+2020,6100,Conducir sin portar la licencia,documentacion,2617
+2020,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,68
+2020,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,9
+2020,6120,Conducir con Licencia Vencida o Caduca,documentacion,1713
+2020,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,160
+2020,6122,Licencia o documentación habilitante vencida (transporte público),otras,69
+2020,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,35
+2020,6140,Conducir c/licencia conductor No Correspondiente,otras,1039
+2020,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,23
+2020,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,10
+2020,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,6071
+2020,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,24
+2020,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,83
+2020,6164,"Exceso de Velocidad en màs de 40Km/h en vías rápidas (taxis, pasajeros, escolares o remises)",otras,23
+2020,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,4
+2020,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,1341
+2020,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,2
+2020,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,349
+2020,6172,Obstruccion de circulacion al transito,otras,52
+2020,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,13
+2020,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,9
+2020,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,13
+2020,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,4
+2020,6185,Carga y descarga (propietario y/o responsable del comercio),otras,453
+2020,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,2225
+2020,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,3
+2020,6190,Falta poliza seguro contra terceros,otras,3072
+2020,6191,Falta poliza seguro contra terceros (no cuente),otras,3073
+2020,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,11521
+2020,6220,Circular con Placas de OTRO dominio.,otras,13
+2020,6230,Circular con equipo Antiradar o Antifoto,otras,59
+2020,6240,Revision tecnica No porte certificado,otras,1271
+2020,6241,Revision tecnica (no realizarla o certificado vencido),otras,4926
+2020,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,43
+2020,6243,Incumplimiento grabado de autopartes (Gestor /Mandat /Concesionaria /Intermediario ),otras,1
+2020,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,1558
+2020,6270,No uso cinturon de seguridad,otras,9448
+2020,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,4
+2020,6272,Sistemas o dispositivos de retencion infantil,otras,608
+2020,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,6
+2020,6310,Verter liquido combustible o aguas servidas,otras,7
+2020,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,45
+2020,6350,Uso indebido e bocina,otras,308
+2020,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,16
+2020,6390,Uso Paragolpe antirreglamentario,otras,29
+2020,6410,Falta Paragolpe,otras,51
+2020,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,131
+2020,6450,"Falta/sin vision, Espejos Retrovisores",otras,1663
+2020,6470,Falta Tapa Combustible,otras,10
+2020,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,61685
+2020,6492,Conductor redactando/enviando mensaje de texto,otras,11760
+2020,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,5268
+2020,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,29280
+2020,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,15696
+2020,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,274951
+2020,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,29126
+2020,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,3095
+2020,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,2012
+2020,6531,Exceso Velocidad más de 140Km/h,velocidad,2056
+2020,6534,Exceso de velocidad de 0 a 10% ms de la velocidad permitida,velocidad,253640
+2020,6535,Exceso de velocidad de 10% a 30% ms de la velocidad permitida,velocidad,695855
+2020,6536,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Particulares),velocidad,108425
+2020,6537,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Tte.Pasajeros),velocidad,3165
+2020,6540,Circulación en sentido contrario,velocidad,8274
+2020,6552,Servicio mensajería/reparto en Motovehiculo sin hab /hab vencida /excede límite del objeto,velocidad,1
+2020,6560,Invasión parcial de vías,velocidad,56
+2020,6580,No respetar carriles/Maniobras Peligrosas,velocidad,7790
+2020,6600,Girar a izquierda/derecha en lugar prohibido,otras,6136
+2020,6620,No respetar paso o cartel PARE en bocacalle,otras,39
+2020,6640,Marcha atras en forma indebida,otras,2651
+2020,6660,Forzar barrera/evadir pago peaje autopista,peajes,163215
+2020,6670,Infrigir normas Transporte Sustancias Peligrosas,otras,1
+2020,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,1325
+2020,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,24
+2020,6720,Interrumpir Filas Escolares,otras,7
+2020,6740,No respetar Senda Peatonal/Paso Peaton,otras,15916
+2020,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,19276
+2020,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,89533
+2020,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,2431
+2020,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,346283
+2020,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,94
+2020,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,18
+2020,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,548
+2020,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,696
+2020,6830,Ocupar lugar no destinado para viajar,otras,25
+2020,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,23
+2020,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,6
+2020,6862,Conducir sin poseer la licencia,otras,4561
+2020,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,25
+2020,6871,Servicio de Taxis Sin Habilitación,otras,8
+2020,6873,Radio taxi que no este abonado a una estación central o difiera estación abonada,otras,1
+2020,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,6
+2020,6876,No aplicación de la tarifa de taxi vigente,otras,19
+2020,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,20
+2020,6878,Requisitos de los vehiculos de transporte de carga,otras,36
+2020,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,30
+2020,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,19
+2020,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,5
+2020,6882,Prestacion servicio publico Taxis c/licencia taxi vencida (dentro 360 vencida),otras,25
+2020,6883,Prestacion servicio publico Taxis c/licencia vencida (mas de 360 vencida),otras,11
+2020,6890,Carga y descarga fuera de hora/lugar prohibido,otras,2308
+2020,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,334215
+2020,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,76176
+2020,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,10233
+2020,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,5341
+2020,6935,Estacionamiento en areas peatonales,estacionamiento,36036
+2020,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,19
+2020,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,40
+2020,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,25
+2020,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,8821
+2020,6990,No respetar indicaciones Autoridad dirige Transito(carga/pasajeros),estacionamiento,1
+2020,7001,Infraccion regimen motovehiculos,alcohol_otros,4276
+2020,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,1218
+2020,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,3
+2020,7021,(Ciclorodado) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,204
+2020,7022,(Dispositivo movilidad personal) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,26
+2020,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,2
+2020,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,8121
+2020,7050,Violar Luz Roja,alcohol_otros,36223
+2020,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,103
+2020,7063,Contribución a conducción peligrosa.,alcohol_otros,19
+2020,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,1259
+2020,7065,Uso indebido de luces,alcohol_otros,441
+2020,7066,Utilizacion de luces prohibidas,alcohol_otros,230
+2020,7540,No cumplir Norma de habilitacion tecnica Remise/Escolares/Taxi,alcohol_otros,1
+2020,8080,Abandonar vehiculo en la via publica,otras,6
+2020,8880,Incumplimiento de identificacion de conductor,otras,514
+2020,8884,Señalizacion de obras,otras,16
+2020,8885,"Paradas, otras señales y simbolos",otras,29
+2020,8886,Conductores principiantes,otras,3
+2020,8910,Violación de Barreras Ferroviarias - Particular,otras,246
+2020,8911,Violación de Barreras Ferroviarias - Transporte,otras,15
+2020,8916,Habilitación de empresa de radio taxi vencida (mas de 30 y hasta 180 días),otras,3
+2020,8919,Asignación de viajes de radio taxi sin autorización,otras,1
+2020,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,1
+2020,8937,Servicio de radio taxi sin abono,otras,1
+2020,8939,Equipo no homologado (quien preste servicios sin haber verificado y/o registrado ante la Autoridad,otras,1
+2020,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,1441
+2020,8943,Vehic transporte pasajeros no cumple con VTV,otras,41
+2020,8944,Vehic transporte pasajeros en infraccion,otras,148
+2021,1111,Expediente Infraccion de Transito,otras,3143
+2021,1149,Otras infracciones de transito,otras,3
+2021,1693,Infrac normas regulan circulac.motos,otras,1
+2021,6100,Conducir sin portar la licencia,documentacion,4656
+2021,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,33
+2021,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,22
+2021,6120,Conducir con Licencia Vencida o Caduca,documentacion,1451
+2021,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,45
+2021,6122,Licencia o documentación habilitante vencida (transporte público),otras,50
+2021,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,70
+2021,6140,Conducir c/licencia conductor No Correspondiente,otras,2193
+2021,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,50
+2021,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,29
+2021,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,7799
+2021,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,5
+2021,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,1
+2021,6164,"Exceso de Velocidad en màs de 40Km/h en vías rápidas (taxis, pasajeros, escolares o remises)",otras,1
+2021,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,1
+2021,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,16
+2021,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,935
+2021,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,2
+2021,6169,"Conductor que dañe, altere o retire dispositivo",otras,26
+2021,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,1028
+2021,6172,Obstruccion de circulacion al transito,otras,144
+2021,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,30
+2021,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,4
+2021,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,1
+2021,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,2
+2021,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,1
+2021,6185,Carga y descarga (propietario y/o responsable del comercio),otras,185
+2021,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,1326
+2021,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,24
+2021,6190,Falta poliza seguro contra terceros,otras,5094
+2021,6191,Falta poliza seguro contra terceros (no cuente),otras,3430
+2021,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,13210
+2021,6220,Circular con Placas de OTRO dominio.,otras,13
+2021,6230,Circular con equipo Antiradar o Antifoto,otras,26
+2021,6240,Revision tecnica No porte certificado,otras,1884
+2021,6241,Revision tecnica (no realizarla o certificado vencido),otras,18003
+2021,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,47
+2021,6243,Incumplimiento grabado de autopartes (Gestor /Mandat /Concesionaria /Intermediario ),otras,2
+2021,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,283
+2021,6270,No uso cinturon de seguridad,otras,3956
+2021,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,11
+2021,6272,Sistemas o dispositivos de retencion infantil,otras,419
+2021,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,38
+2021,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,19
+2021,6310,Verter liquido combustible o aguas servidas,otras,16
+2021,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,192
+2021,6350,Uso indebido e bocina,otras,344
+2021,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,20
+2021,6390,Uso Paragolpe antirreglamentario,otras,12
+2021,6410,Falta Paragolpe,otras,55
+2021,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,111
+2021,6450,"Falta/sin vision, Espejos Retrovisores",otras,2246
+2021,6470,Falta Tapa Combustible,otras,12
+2021,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,41426
+2021,6492,Conductor redactando/enviando mensaje de texto,otras,8729
+2021,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,5513
+2021,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,108
+2021,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,33
+2021,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,11
+2021,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,2
+2021,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,3
+2021,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,2
+2021,6531,Exceso Velocidad más de 140Km/h,velocidad,2127
+2021,6534,Exceso de velocidad de 0 a 10% ms de la velocidad permitida,velocidad,716589
+2021,6535,Exceso de velocidad de 10% a 30% ms de la velocidad permitida,velocidad,1250987
+2021,6536,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Particulares),velocidad,219851
+2021,6537,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Tte.Pasajeros),velocidad,6127
+2021,6540,Circulación en sentido contrario,velocidad,4663
+2021,6541,Asignar viaje a Repartidor/Mensajero no habilitado/vehíc no habilitado/habilitación no vigente,velocidad,2
+2021,6542,Asignar viaje a Repartidor/Mensajero con habilitac.vencida/habilitac.vehíc. vencida,velocidad,6
+2021,6548,Realizar servicio mensajería/reparto a domicilio con vehículo no autorizado y/o con acompañantes,velocidad,2
+2021,6549,No utilizar la identificación con número de habilitación/indumentaria con bandas reflectivas,velocidad,3
+2021,6551,Servicio mensajería/reparto en ciclorodado sin hab/ hab vencida/ excede límite del objeto de aquella,velocidad,4
+2021,6552,Servicio mensajería/reparto en Motovehiculo sin hab /hab vencida /excede límite del objeto,velocidad,312
+2021,6555,No aplicación de la tarifa de taxi vigente s/art 12.5.9 CTyT,velocidad,1
+2021,6560,Invasión parcial de vías,velocidad,94
+2021,6580,No respetar carriles/Maniobras Peligrosas,velocidad,7271
+2021,6600,Girar a izquierda/derecha en lugar prohibido,otras,7619
+2021,6620,No respetar paso o cartel PARE en bocacalle,otras,63
+2021,6640,Marcha atras en forma indebida,otras,1118
+2021,6660,Forzar barrera/evadir pago peaje autopista,peajes,251123
+2021,6670,Infrigir normas Transporte Sustancias Peligrosas,otras,2
+2021,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,3185
+2021,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,78
+2021,6720,Interrumpir Filas Escolares,otras,52
+2021,6740,No respetar Senda Peatonal/Paso Peaton,otras,10298
+2021,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,5325
+2021,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,163485
+2021,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,2526
+2021,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,707
+2021,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,68
+2021,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,53
+2021,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,301
+2021,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,230
+2021,6830,Ocupar lugar no destinado para viajar,otras,33
+2021,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,5
+2021,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,6
+2021,6861,No Cumplir Normas  s/requisitos Vehículos Escolares sin habilitación,otras,2
+2021,6862,Conducir sin poseer la licencia,otras,6521
+2021,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,10
+2021,6871,Servicio de Taxis Sin Habilitación,otras,5
+2021,6873,Radio taxi que no este abonado a una estación central o difiera estación abonada,otras,1
+2021,6876,No aplicación de la tarifa de taxi vigente,otras,1
+2021,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,53
+2021,6878,Requisitos de los vehiculos de transporte de carga,otras,9
+2021,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,44
+2021,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,22
+2021,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,6
+2021,6882,Prestacion servicio publico Taxis c/licencia taxi vencida (dentro 360 vencida),otras,34
+2021,6883,Prestacion servicio publico Taxis c/licencia vencida (mas de 360 vencida),otras,11
+2021,6890,Carga y descarga fuera de hora/lugar prohibido,otras,912
+2021,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,218691
+2021,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,78658
+2021,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,12406
+2021,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,15847
+2021,6935,Estacionamiento en areas peatonales,estacionamiento,32139
+2021,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,27
+2021,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,32
+2021,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,98
+2021,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,9439
+2021,7001,Infraccion regimen motovehiculos,alcohol_otros,4897
+2021,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,1500
+2021,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,35
+2021,7021,(Ciclorodado) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,21
+2021,7022,(Dispositivo movilidad personal) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,13
+2021,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,4944
+2021,7050,Violar Luz Roja,alcohol_otros,25275
+2021,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,259
+2021,7063,Contribución a conducción peligrosa.,alcohol_otros,43
+2021,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,1668
+2021,7065,Uso indebido de luces,alcohol_otros,70
+2021,7066,Utilizacion de luces prohibidas,alcohol_otros,99
+2021,7530,Circular en Infraccion Normas regulan servicio Remise/Escolares/Taxi,alcohol_otros,1
+2021,8880,Incumplimiento de identificacion de conductor,otras,1168
+2021,8884,Señalizacion de obras,otras,5
+2021,8885,"Paradas, otras señales y simbolos",otras,104
+2021,8886,Conductores principiantes,otras,6
+2021,8910,Violación de Barreras Ferroviarias - Particular,otras,215
+2021,8911,Violación de Barreras Ferroviarias - Transporte,otras,9
+2021,8914,Empresa de radio taxi sin habilitación,otras,1
+2021,8920,Asignación de viajes de radio taxi a vehículos sin licencias de taxis (quien asigne viajes),otras,1
+2021,8924,Incumplimiento a la autorización para funcionar como radio taxi,otras,2
+2021,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,2
+2021,8936,Eliminación señales de radio taxi,otras,1
+2021,8939,Equipo no homologado (quien preste servicios sin haber verificado y/o registrado ante la Autoridad,otras,2
+2021,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,996
+2021,8943,Vehic transporte pasajeros no cumple con VTV,otras,78
+2021,8944,Vehic transporte pasajeros en infraccion,otras,39
+2022,1111,Expediente Infraccion de Transito,otras,3762
+2022,1149,Otras infracciones de transito,otras,1
+2022,6100,Conducir sin portar la licencia,documentacion,5470
+2022,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,22
+2022,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,2
+2022,6120,Conducir con Licencia Vencida o Caduca,documentacion,6238
+2022,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,36
+2022,6122,Licencia o documentación habilitante vencida (transporte público),otras,51
+2022,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,227
+2022,6140,Conducir c/licencia conductor No Correspondiente,otras,1210
+2022,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,29
+2022,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,22
+2022,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,7041
+2022,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,5
+2022,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,1
+2022,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,1
+2022,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,11
+2022,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,970
+2022,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,6
+2022,6169,"Conductor que dañe, altere o retire dispositivo",otras,49
+2022,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,5132
+2022,6172,Obstruccion de circulacion al transito,otras,629
+2022,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,33
+2022,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,4
+2022,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,1
+2022,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,2
+2022,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,19
+2022,6185,Carga y descarga (propietario y/o responsable del comercio),otras,188
+2022,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,3882
+2022,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,34
+2022,6190,Falta poliza seguro contra terceros,otras,5316
+2022,6191,Falta poliza seguro contra terceros (no cuente),otras,2516
+2022,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,21833
+2022,6220,Circular con Placas de OTRO dominio.,otras,34
+2022,6230,Circular con equipo Antiradar o Antifoto,otras,44
+2022,6240,Revision tecnica No porte certificado,otras,1708
+2022,6241,Revision tecnica (no realizarla o certificado vencido),otras,19977
+2022,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,35
+2022,6243,Incumplimiento grabado de autopartes (Gestor /Mandat /Concesionaria /Intermediario ),otras,2
+2022,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,900
+2022,6270,No uso cinturon de seguridad,otras,10068
+2022,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,39
+2022,6272,Sistemas o dispositivos de retencion infantil,otras,712
+2022,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,36
+2022,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,27
+2022,6310,Verter liquido combustible o aguas servidas,otras,12
+2022,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,794
+2022,6350,Uso indebido e bocina,otras,1597
+2022,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,173
+2022,6390,Uso Paragolpe antirreglamentario,otras,43
+2022,6410,Falta Paragolpe,otras,65
+2022,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,566
+2022,6450,"Falta/sin vision, Espejos Retrovisores",otras,1820
+2022,6470,Falta Tapa Combustible,otras,12
+2022,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,60765
+2022,6492,Conductor redactando/enviando mensaje de texto,otras,10245
+2022,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,8987
+2022,6512,Exceso Velocidad +20Km de la Maxima permitida en calle/avenida(particulares),velocidad,1
+2022,6519,No respetar limites de velocidad minimos,velocidad,3
+2022,6520,Exceso de Velocidad,velocidad,1
+2022,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,5
+2022,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,10
+2022,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,4
+2022,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,2
+2022,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,3
+2022,6531,Exceso Velocidad más de 140Km/h,velocidad,786
+2022,6534,Exceso de velocidad de 0 a 10% ms de la velocidad permitida,velocidad,186958
+2022,6535,Exceso de velocidad de 10% a 30% ms de la velocidad permitida,velocidad,649229
+2022,6536,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Particulares),velocidad,73776
+2022,6537,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Tte.Pasajeros),velocidad,2306
+2022,6540,Circulación en sentido contrario,velocidad,5197
+2022,6541,Asignar viaje a Repartidor/Mensajero no habilitado/vehíc no habilitado/habilitación no vigente,velocidad,1
+2022,6542,Asignar viaje a Repartidor/Mensajero con habilitac.vencida/habilitac.vehíc. vencida,velocidad,6
+2022,6545,Adulterar datos provistos s/Cap 13.11 Cód.Tránsito y Transporte,velocidad,1
+2022,6547,No proveer seguros a mensajeros/repartidores s/Cap.13.6 Cód Tránsito y Transito,velocidad,1
+2022,6551,Servicio mensajería/reparto en ciclorodado sin hab/ hab vencida/ excede límite del objeto de aquella,velocidad,6
+2022,6552,Servicio mensajería/reparto en Motovehiculo sin hab /hab vencida /excede límite del objeto,velocidad,147
+2022,6560,Invasión parcial de vías,velocidad,281
+2022,6580,No respetar carriles/Maniobras Peligrosas,velocidad,10737
+2022,6600,Girar a izquierda/derecha en lugar prohibido,otras,10482
+2022,6620,No respetar paso o cartel PARE en bocacalle,otras,91
+2022,6640,Marcha atras en forma indebida,otras,891
+2022,6660,Forzar barrera/evadir pago peaje autopista,peajes,413201
+2022,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,7849
+2022,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,110
+2022,6720,Interrumpir Filas Escolares,otras,407
+2022,6740,No respetar Senda Peatonal/Paso Peaton,otras,43753
+2022,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,33704
+2022,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,143534
+2022,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,2460
+2022,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,145
+2022,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,58
+2022,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,27
+2022,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,615
+2022,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,946
+2022,6830,Ocupar lugar no destinado para viajar,otras,125
+2022,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,13
+2022,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,24
+2022,6860,No Cumplir Normas s/requisitos Vehículos  Escolares c/habilitación,otras,1
+2022,6861,No Cumplir Normas  s/requisitos Vehículos Escolares sin habilitación,otras,1
+2022,6862,Conducir sin poseer la licencia,otras,4289
+2022,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,11
+2022,6871,Servicio de Taxis Sin Habilitación,otras,11
+2022,6872,Servicio de radio taxis que incumpla la normativa legal vigente,otras,5
+2022,6873,Radio taxi que no este abonado a una estación central o difiera estación abonada,otras,1
+2022,6874,Radio taxi con IRA vencido y/o que a su baja no hubiere eliminado las señales que lo identificaban,otras,1
+2022,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,1
+2022,6876,No aplicación de la tarifa de taxi vigente,otras,1
+2022,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,8
+2022,6878,Requisitos de los vehiculos de transporte de carga,otras,34
+2022,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,116
+2022,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,35
+2022,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,7
+2022,6882,Prestacion servicio publico Taxis c/licencia taxi vencida (dentro 360 vencida),otras,8
+2022,6883,Prestacion servicio publico Taxis c/licencia vencida (mas de 360 vencida),otras,4
+2022,6890,Carga y descarga fuera de hora/lugar prohibido,otras,1152
+2022,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,400988
+2022,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,85831
+2022,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,19095
+2022,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,18776
+2022,6935,Estacionamiento en areas peatonales,estacionamiento,36352
+2022,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,29
+2022,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,23
+2022,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,7327
+2022,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,13166
+2022,7001,Infraccion regimen motovehiculos,alcohol_otros,5596
+2022,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,1022
+2022,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,130
+2022,7021,(Ciclorodado) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,13
+2022,7022,(Dispositivo movilidad personal) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,1
+2022,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,2
+2022,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,9307
+2022,7050,Violar Luz Roja,alcohol_otros,47401
+2022,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,310
+2022,7063,Contribución a conducción peligrosa.,alcohol_otros,44
+2022,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,6163
+2022,7065,Uso indebido de luces,alcohol_otros,856
+2022,7066,Utilizacion de luces prohibidas,alcohol_otros,100
+2022,7462,Conducir con nivel alcohol mayor 0.5 y menor 1 gr/Lt/sangre (vehículo),alcohol,5677
+2022,7463,Conducir con nivel alcohol mayor 0.2 y menor 1 gr/Lt/sangre (Moto),alcohol,444
+2022,7464,Conducir con nivel alcohol mayor 0.0 y menor 1 gr/Lt/sangre (Tte Pasajeros/Carga/principiante),alcohol,260
+2022,7465,Prestar servicio enseñanza de conducción de vehículos sin habilitación,alcohol,9
+2022,7467,Afectar calzada sin autorizacion c/evento/obra q no implica apertura/rotura,alcohol_otros,9
+2022,7468,Afectar calzada c/evento/obra q no implica apertura/rotura (excede autorizacion),alcohol_otros,11
+2022,7469,Afectar calzada c/evento/obra (incumple manual señalizacion vial transitoria),alcohol_otros,17
+2022,7552,Alteraciones con dispositivos mecánicos electrónicos a fin de incrementar la tarifa,alcohol_otros,1
+2022,8880,Incumplimiento de identificacion de conductor,otras,1902
+2022,8884,Señalizacion de obras,otras,41
+2022,8885,"Paradas, otras señales y simbolos",otras,832
+2022,8886,Conductores principiantes,otras,11
+2022,8910,Violación de Barreras Ferroviarias - Particular,otras,344
+2022,8911,Violación de Barreras Ferroviarias - Transporte,otras,20
+2022,8924,Incumplimiento a la autorización para funcionar como radio taxi,otras,1
+2022,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,5
+2022,8927,Personal de la empresa de radio taxi (no cumplimentar con previsiones),otras,1
+2022,8932,Abonados sin equipos,otras,1
+2022,8939,Equipo no homologado (quien preste servicios sin haber verificado y/o registrado ante la Autoridad,otras,3
+2022,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,503
+2022,8943,Vehic transporte pasajeros no cumple con VTV,otras,371
+2022,8944,Vehic transporte pasajeros en infraccion,otras,38
+2023,1111,Expediente Infraccion de Transito,otras,7429
+2023,1149,Otras infracciones de transito,otras,3
+2023,6100,Conducir sin portar la licencia,documentacion,6282
+2023,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,29
+2023,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,8
+2023,6120,Conducir con Licencia Vencida o Caduca,documentacion,7831
+2023,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,86
+2023,6122,Licencia o documentación habilitante vencida (transporte público),otras,84
+2023,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,241
+2023,6140,Conducir c/licencia conductor No Correspondiente,otras,1667
+2023,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,51
+2023,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,18
+2023,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,8208
+2023,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,6
+2023,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,1
+2023,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,5
+2023,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,1304
+2023,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,4
+2023,6169,"Conductor que dañe, altere o retire dispositivo",otras,41
+2023,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,3839
+2023,6172,Obstruccion de circulacion al transito,otras,600
+2023,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,34
+2023,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,8
+2023,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,4
+2023,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,5
+2023,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,5
+2023,6185,Carga y descarga (propietario y/o responsable del comercio),otras,354
+2023,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,6930
+2023,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,61
+2023,6190,Falta poliza seguro contra terceros,otras,6396
+2023,6191,Falta poliza seguro contra terceros (no cuente),otras,2210
+2023,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,28400
+2023,6220,Circular con Placas de OTRO dominio.,otras,44
+2023,6230,Circular con equipo Antiradar o Antifoto,otras,113
+2023,6240,Revision tecnica No porte certificado,otras,1295
+2023,6241,Revision tecnica (no realizarla o certificado vencido),otras,11790
+2023,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,27
+2023,6243,Incumplimiento grabado de autopartes (Gestor /Mandat /Concesionaria /Intermediario ),otras,3
+2023,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,1691
+2023,6270,No uso cinturon de seguridad,otras,64261
+2023,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,4
+2023,6272,Sistemas o dispositivos de retencion infantil,otras,355
+2023,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,14
+2023,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,155
+2023,6310,Verter liquido combustible o aguas servidas,otras,8
+2023,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,1425
+2023,6350,Uso indebido e bocina,otras,753
+2023,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,245
+2023,6390,Uso Paragolpe antirreglamentario,otras,58
+2023,6410,Falta Paragolpe,otras,143
+2023,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,310
+2023,6450,"Falta/sin vision, Espejos Retrovisores",otras,3122
+2023,6470,Falta Tapa Combustible,otras,12
+2023,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,56874
+2023,6492,Conductor redactando/enviando mensaje de texto,otras,10303
+2023,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,5814
+2023,6519,No respetar limites de velocidad minimos,velocidad,1
+2023,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,604
+2023,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,1179
+2023,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,1522
+2023,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,2
+2023,6531,Exceso Velocidad más de 140Km/h,velocidad,1716
+2023,6534,Exceso de velocidad de 0 a 10% ms de la velocidad permitida,velocidad,470
+2023,6535,Exceso de velocidad de 10% a 30% ms de la velocidad permitida,velocidad,950256
+2023,6536,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Particulares),velocidad,97569
+2023,6537,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Tte.Pasajeros),velocidad,3950
+2023,6540,Circulación en sentido contrario,velocidad,4520
+2023,6541,Asignar viaje a Repartidor/Mensajero no habilitado/vehíc no habilitado/habilitación no vigente,velocidad,1
+2023,6542,Asignar viaje a Repartidor/Mensajero con habilitac.vencida/habilitac.vehíc. vencida,velocidad,2
+2023,6547,No proveer seguros a mensajeros/repartidores s/Cap.13.6 Cód Tránsito y Transito,velocidad,1
+2023,6548,Realizar servicio mensajería/reparto a domicilio con vehículo no autorizado y/o con acompañantes,velocidad,1
+2023,6549,No utilizar la identificación con número de habilitación/indumentaria con bandas reflectivas,velocidad,1429
+2023,6551,Servicio mensajería/reparto en ciclorodado sin hab/ hab vencida/ excede límite del objeto de aquella,velocidad,2
+2023,6552,Servicio mensajería/reparto en Motovehiculo sin hab /hab vencida /excede límite del objeto,velocidad,87
+2023,6554,Prestador servicio mensajería/reparto con Habilitación vencida,velocidad,1
+2023,6560,Invasión parcial de vías,velocidad,164
+2023,6580,No respetar carriles/Maniobras Peligrosas,velocidad,11921
+2023,6600,Girar a izquierda/derecha en lugar prohibido,otras,10150
+2023,6620,No respetar paso o cartel PARE en bocacalle,otras,53
+2023,6640,Marcha atras en forma indebida,otras,593
+2023,6660,Forzar barrera/evadir pago peaje autopista,peajes,413566
+2023,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,11533
+2023,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,79
+2023,6720,Interrumpir Filas Escolares,otras,372
+2023,6740,No respetar Senda Peatonal/Paso Peaton,otras,70919
+2023,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,18809
+2023,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,202501
+2023,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,6985
+2023,6763,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,otras,7923
+2023,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,75
+2023,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,25
+2023,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,11
+2023,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,628
+2023,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,1086
+2023,6830,Ocupar lugar no destinado para viajar,otras,68
+2023,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,55
+2023,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,35
+2023,6862,Conducir sin poseer la licencia,otras,3844
+2023,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,40
+2023,6871,Servicio de Taxis Sin Habilitación,otras,18
+2023,6872,Servicio de radio taxis que incumpla la normativa legal vigente,otras,1
+2023,6873,Radio taxi que no este abonado a una estación central o difiera estación abonada,otras,5
+2023,6874,Radio taxi con IRA vencido y/o que a su baja no hubiere eliminado las señales que lo identificaban,otras,1
+2023,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,2
+2023,6876,No aplicación de la tarifa de taxi vigente,otras,3
+2023,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,24
+2023,6878,Requisitos de los vehiculos de transporte de carga,otras,134
+2023,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,201
+2023,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,36
+2023,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,6
+2023,6882,Prestacion servicio publico Taxis c/licencia taxi vencida (dentro 360 vencida),otras,24
+2023,6883,Prestacion servicio publico Taxis c/licencia vencida (mas de 360 vencida),otras,26
+2023,6890,Carga y descarga fuera de hora/lugar prohibido,otras,758
+2023,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,424676
+2023,6907,Estacionar en doble fila,estacionamiento,1750
+2023,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,119967
+2023,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,17922
+2023,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,8929
+2023,6935,Estacionamiento en areas peatonales,estacionamiento,40699
+2023,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,27
+2023,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,21
+2023,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,298
+2023,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,15181
+2023,7001,Infraccion regimen motovehiculos,alcohol_otros,6436
+2023,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,2793
+2023,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,108
+2023,7021,(Ciclorodado) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,13
+2023,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,7
+2023,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,6305
+2023,7050,Violar Luz Roja,alcohol_otros,67873
+2023,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,386
+2023,7063,Contribución a conducción peligrosa.,alcohol_otros,90
+2023,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,8988
+2023,7065,Uso indebido de luces,alcohol_otros,70
+2023,7066,Utilizacion de luces prohibidas,alcohol_otros,155
+2023,7462,Conducir con nivel alcohol mayor 0.5 y menor 1 gr/Lt/sangre (vehículo),alcohol,2793
+2023,7463,Conducir con nivel alcohol mayor 0.2 y menor 1 gr/Lt/sangre (Moto),alcohol,220
+2023,7464,Conducir con nivel alcohol mayor 0.0 y menor 1 gr/Lt/sangre (Tte Pasajeros/Carga/principiante),alcohol,225
+2023,7465,Prestar servicio enseñanza de conducción de vehículos sin habilitación,alcohol,3
+2023,7466,Escuela Conductores automotores c/ habilitación vencida o que exceda los límites u objeto de aquella,alcohol,2
+2023,7467,Afectar calzada sin autorizacion c/evento/obra q no implica apertura/rotura,alcohol_otros,10
+2023,7468,Afectar calzada c/evento/obra q no implica apertura/rotura (excede autorizacion),alcohol_otros,2
+2023,7469,Afectar calzada c/evento/obra (incumple manual señalizacion vial transitoria),alcohol_otros,10
+2023,7530,Circular en Infraccion Normas regulan servicio Remise/Escolares/Taxi,alcohol_otros,2
+2023,7540,No cumplir Norma de habilitacion tecnica Remise/Escolares/Taxi,alcohol_otros,1
+2023,7551,Alteraciones en el reloj taxímetro (titular y/o mandataria),alcohol_otros,2
+2023,7552,Alteraciones con dispositivos mecánicos electrónicos a fin de incrementar la tarifa,alcohol_otros,2
+2023,8880,Incumplimiento de identificacion de conductor,otras,3819
+2023,8884,Señalizacion de obras,otras,39
+2023,8885,"Paradas, otras señales y simbolos",otras,770
+2023,8886,Conductores principiantes,otras,50
+2023,8910,Violación de Barreras Ferroviarias - Particular,otras,468
+2023,8911,Violación de Barreras Ferroviarias - Transporte,otras,67
+2023,8916,Habilitación de empresa de radio taxi vencida (mas de 30 y hasta 180 días),otras,1
+2023,8917,Habilitación de empresa de radio taxi vencida (de 180 y hasta 360 días),otras,1
+2023,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,1
+2023,8927,Personal de la empresa de radio taxi (no cumplimentar con previsiones),otras,1
+2023,8930,Horario estación central,otras,1
+2023,8934,Taxi con cartelería sin equipo de radio,otras,1
+2023,8935,Taxi con cartelería sin abono,otras,1
+2023,8939,Equipo no homologado (quien preste servicios sin haber verificado y/o registrado ante la Autoridad,otras,3
+2023,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,506
+2023,8943,Vehic transporte pasajeros no cumple con VTV,otras,719
+2023,8944,Vehic transporte pasajeros en infraccion,otras,93
+2024,1111,Expediente Infraccion de Transito,otras,9649
+2024,1149,Otras infracciones de transito,otras,10
+2024,6100,Conducir sin portar la licencia,documentacion,4525
+2024,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,29
+2024,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,15
+2024,6120,Conducir con Licencia Vencida o Caduca,documentacion,5727
+2024,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,38
+2024,6122,Licencia o documentación habilitante vencida (transporte público),otras,71
+2024,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,218
+2024,6140,Conducir c/licencia conductor No Correspondiente,otras,1487
+2024,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,28
+2024,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,15
+2024,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,5079
+2024,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,14
+2024,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,1
+2024,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,2
+2024,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,4
+2024,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,1078
+2024,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,4
+2024,6169,"Conductor que dañe, altere o retire dispositivo",otras,14
+2024,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,1096
+2024,6172,Obstruccion de circulacion al transito,otras,121
+2024,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,27
+2024,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,5
+2024,6182,Cond vehiculo con taximetro que se negara a interrumpir func del mecanismo y/o disp de publicidad,otras,2
+2024,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,2
+2024,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,1
+2024,6185,Carga y descarga (propietario y/o responsable del comercio),otras,54
+2024,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,4410
+2024,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,8
+2024,6190,Falta poliza seguro contra terceros,otras,5560
+2024,6191,Falta poliza seguro contra terceros (no cuente),otras,2333
+2024,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,22231
+2024,6220,Circular con Placas de OTRO dominio.,otras,12
+2024,6230,Circular con equipo Antiradar o Antifoto,otras,131
+2024,6240,Revision tecnica No porte certificado,otras,651
+2024,6241,Revision tecnica (no realizarla o certificado vencido),otras,4957
+2024,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,10
+2024,6243,Incumplimiento grabado de autopartes (Gestor /Mandat /Concesionaria /Intermediario ),otras,2
+2024,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,721
+2024,6270,No uso cinturon de seguridad,otras,60121
+2024,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,8
+2024,6272,Sistemas o dispositivos de retencion infantil,otras,181
+2024,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,2
+2024,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,128
+2024,6310,Verter liquido combustible o aguas servidas,otras,5
+2024,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,1060
+2024,6350,Uso indebido e bocina,otras,294
+2024,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,163
+2024,6390,Uso Paragolpe antirreglamentario,otras,16
+2024,6410,Falta Paragolpe,otras,64
+2024,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,168
+2024,6450,"Falta/sin vision, Espejos Retrovisores",otras,2440
+2024,6470,Falta Tapa Combustible,otras,7
+2024,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,31884
+2024,6492,Conductor redactando/enviando mensaje de texto,otras,7019
+2024,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,2978
+2024,6510,Exceso de Velocidad,velocidad,1
+2024,6520,,velocidad,2
+2024,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,2735
+2024,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,3
+2024,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,8875
+2024,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,7229
+2024,6529,Exceso Velocidad más 20Km de la Máxima permitida para el tipo de arteria y hasta 140 km/h,velocidad,1
+2024,6531,Exceso Velocidad más de 140Km/h,velocidad,2277
+2024,6534,Exceso de velocidad de 0 a 10% ms de la velocidad permitida,velocidad,864506
+2024,6535,Exceso de velocidad de 10% a 30% ms de la velocidad permitida,velocidad,1027000
+2024,6536,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Particulares),velocidad,114070
+2024,6537,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Tte.Pasajeros),velocidad,3362
+2024,6540,Circulación en sentido contrario,velocidad,2223
+2024,6541,Asignar viaje a Repartidor/Mensajero no habilitado/vehíc no habilitado/habilitación no vigente,velocidad,2
+2024,6547,No proveer seguros a mensajeros/repartidores s/Cap.13.6 Cód Tránsito y Transito,velocidad,3
+2024,6548,Realizar servicio mensajería/reparto a domicilio con vehículo no autorizado y/o con acompañantes,velocidad,2
+2024,6549,No utilizar la identificación con número de habilitación/indumentaria con bandas reflectivas,velocidad,13
+2024,6551,Servicio mensajería/reparto en ciclorodado sin hab/ hab vencida/ excede límite del objeto de aquella,velocidad,2
+2024,6552,Servicio mensajería/reparto en Motovehiculo sin hab /hab vencida /excede límite del objeto,velocidad,274
+2024,6560,Invasión parcial de vías,velocidad,99
+2024,6580,No respetar carriles/Maniobras Peligrosas,velocidad,6557
+2024,6600,Girar a izquierda/derecha en lugar prohibido,otras,6742
+2024,6620,No respetar paso o cartel PARE en bocacalle,otras,23
+2024,6640,Marcha atras en forma indebida,otras,209
+2024,6660,Forzar barrera/evadir pago peaje autopista,peajes,1907972
+2024,6670,Infrigir normas Transporte Sustancias Peligrosas,otras,7
+2024,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,6210
+2024,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,60
+2024,6720,Interrumpir Filas Escolares,otras,8
+2024,6740,No respetar Senda Peatonal/Paso Peaton,otras,94982
+2024,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,158718
+2024,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,184144
+2024,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,11130
+2024,6763,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,otras,22373
+2024,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,191
+2024,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,15
+2024,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,4
+2024,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,412
+2024,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,257
+2024,6830,Ocupar lugar no destinado para viajar,otras,27
+2024,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,28
+2024,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,12
+2024,6862,Conducir sin poseer la licencia,otras,3721
+2024,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,25
+2024,6871,Servicio de Taxis Sin Habilitación,otras,25
+2024,6873,Radio taxi que no este abonado a una estación central o difiera estación abonada,otras,1
+2024,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,1
+2024,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,9
+2024,6878,Requisitos de los vehiculos de transporte de carga,otras,41
+2024,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,144
+2024,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,25
+2024,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,4
+2024,6882,Prestacion servicio publico Taxis c/licencia taxi vencida (dentro 360 vencida),otras,37
+2024,6883,Prestacion servicio publico Taxis c/licencia vencida (mas de 360 vencida),otras,18
+2024,6890,Carga y descarga fuera de hora/lugar prohibido,otras,293
+2024,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,186251
+2024,6907,Estacionar en doble fila,estacionamiento,17856
+2024,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,118006
+2024,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,13096
+2024,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,2099
+2024,6935,Estacionamiento en areas peatonales,estacionamiento,36568
+2024,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,10
+2024,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,11
+2024,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,90
+2024,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,10543
+2024,7000,Circular sin utilizar Casco-conductor/acompañante(Moto/Ciclom./Motoneta),alcohol_otros,1
+2024,7001,Infraccion regimen motovehiculos,alcohol_otros,5615
+2024,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,453
+2024,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,30
+2024,7021,(Ciclorodado) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,23
+2024,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,1
+2024,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,895
+2024,7050,Violar Luz Roja,alcohol_otros,102682
+2024,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,364
+2024,7063,Contribución a conducción peligrosa.,alcohol_otros,143
+2024,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,5642
+2024,7065,Uso indebido de luces,alcohol_otros,53
+2024,7066,Utilizacion de luces prohibidas,alcohol_otros,40
+2024,7462,Conducir con nivel alcohol mayor 0.5 y menor 1 gr/Lt/sangre (vehículo),alcohol,2975
+2024,7463,Conducir con nivel alcohol mayor 0.2 y menor 1 gr/Lt/sangre (Moto),alcohol,326
+2024,7464,Conducir con nivel alcohol mayor 0.0 y menor 1 gr/Lt/sangre (Tte Pasajeros/Carga/principiante),alcohol,224
+2024,7465,Prestar servicio enseñanza de conducción de vehículos sin habilitación,alcohol,2
+2024,7467,Afectar calzada sin autorizacion c/evento/obra q no implica apertura/rotura,alcohol_otros,8
+2024,7468,Afectar calzada c/evento/obra q no implica apertura/rotura (excede autorizacion),alcohol_otros,10
+2024,7469,Afectar calzada c/evento/obra (incumple manual señalizacion vial transitoria),alcohol_otros,8
+2024,8080,Abandonar vehiculo en la via publica,otras,1
+2024,8880,Incumplimiento de identificacion de conductor,otras,4737
+2024,8884,Señalizacion de obras,otras,15
+2024,8885,"Paradas, otras señales y simbolos",otras,299
+2024,8910,Violación de Barreras Ferroviarias - Particular,otras,244
+2024,8911,Violación de Barreras Ferroviarias - Transporte,otras,6
+2024,8914,Empresa de radio taxi sin habilitación,otras,1
+2024,8918,Habilitación de empresa de radio taxi vencida (más de 360 días),otras,1
+2024,8919,Asignación de viajes de radio taxi sin autorización,otras,1
+2024,8924,Incumplimiento a la autorización para funcionar como radio taxi,otras,1
+2024,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,2
+2024,8938,Equipo no homologado (titular y/o responsable abonado a una empresa),otras,1
+2024,8939,Equipo no homologado (quien preste servicios sin haber verificado y/o registrado ante la Autoridad,otras,2
+2024,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,207
+2024,8943,Vehic transporte pasajeros no cumple con VTV,otras,124
+2024,8944,Vehic transporte pasajeros en infraccion,otras,40
+2025,1111,Expediente Infraccion de Transito,otras,9486
+2025,1149,Otras infracciones de transito,otras,25
+2025,6100,Conducir sin portar la licencia,documentacion,4744
+2025,6105,Falta de licencia o documentación o inhabilitado (transporte público),otras,27
+2025,6110,Permitir conducir sin Licencia o Inhabilitado (titular/transporte),otras,10
+2025,6120,Conducir con Licencia Vencida o Caduca,documentacion,3957
+2025,6121,"Permitir conducir con licencia o documentación vencida (titular, mandataria o responsable)",otras,42
+2025,6122,Licencia o documentación habilitante vencida (transporte público),otras,62
+2025,6130,Conducir sin anteojos o lentes contacto segun Licencia,otras,126
+2025,6140,Conducir c/licencia conductor No Correspondiente,otras,1683
+2025,6150,Permitir Conducir c/licencia conductor No Correspondiente(titular/transporte),otras,54
+2025,6160,Permitir o Facilitar manejo persona sin edad s/tipo vehiculo,otras,19
+2025,6161,Exhibición de documentación (no exhibir ced verde vigente a nombre del tit  o ced azul de conductor),documentacion,4138
+2025,6162,"Exceso de Velocidad + de 140 Km/h (taxis, pasajeros, escolares o remises)",otras,384
+2025,6163,"Exceso de Velocidad mas de 20Km/h en Calle o Avenida (taxis, pasajeros, escolares, remises)",otras,24
+2025,6165,Trans de sustancias peligrosas (no exhibir corresp insc en Reg de Transportistas segun norm vigente),otras,4
+2025,6166,Vehiculo Transporte de sustancias alimenticias sin habilitaciòn,otras,2
+2025,6167,"Obstruccion de via (en carriles exclusivos y/o, metrobus y premetro)",otras,786
+2025,6168,"Titular o responsable vehiculo transporte de escolares que dañe, altere o retire disp de alcoholemia",alcohol,2
+2025,6169,"Conductor que dañe, altere o retire dispositivo",otras,17
+2025,6171,Obstruir LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,otras,1424
+2025,6172,Obstruccion de circulacion al transito,otras,165
+2025,6180,No exhibir documentacion sobre transporte de sustancias peligrosas,otras,29
+2025,6181,Conductor vehiculo con taximetro que se negara sin justificacion a transportar pasajero,otras,3
+2025,6183,Cond vehiculo con taximetro que no porte ficha identif del titular de la licencia o la del conductor,otras,2
+2025,6184,Titular vehiculo de carga exceda peso maximo por eje,otras,2
+2025,6185,Carga y descarga (propietario y/o responsable del comercio),otras,71
+2025,6186,"Violacion de semaforo (taxis, escolares , pasajeros, remises. Prestando servicio)",otras,1767
+2025,6187,"Negativa de someterse a control (taxis, escolares , pasajeros, remises. Prestando servicio)",alcohol,16
+2025,6190,Falta poliza seguro contra terceros,otras,5763
+2025,6191,Falta poliza seguro contra terceros (no cuente),otras,2794
+2025,6200,Placas dominio. Falta/antirreglamentarias/mal estado,otras,33371
+2025,6220,Circular con Placas de OTRO dominio.,otras,59
+2025,6230,Circular con equipo Antiradar o Antifoto,otras,283
+2025,6240,Revision tecnica No porte certificado,otras,349
+2025,6241,Revision tecnica (no realizarla o certificado vencido),otras,2049
+2025,6242,Incumplimiento grabado de autopartes (Titular/Tomador),otras,15
+2025,6250,Frenos/Luces/elementos seguridad Falta o Deficientes,otras,540
+2025,6270,No uso cinturon de seguridad,otras,48930
+2025,6271,Menores de edad en asiento trasero SIN dispositivo retencion infantil o SIN acompañante mayor,otras,11
+2025,6272,Sistemas o dispositivos de retencion infantil,otras,97
+2025,6280,"Limitador de velocidad, Falta / Funciona incorrectamente",otras,7
+2025,6290,"Dispositivo control gases, Falta /Mal funcionamiento",otras,8
+2025,6310,Verter liquido combustible o aguas servidas,otras,3
+2025,6330,Dispositivo de control de ruido y silenciador Falta /Mal funcionamiento,otras,438
+2025,6350,Uso indebido e bocina,otras,389
+2025,6370,Colocacion Bocinas o sirenas antirreglamentarias,otras,45
+2025,6390,Uso Paragolpe antirreglamentario,otras,17
+2025,6410,Falta Paragolpe,otras,35
+2025,6430,Uso de Vidrios tonalizados antirreglamentarios,otras,144
+2025,6450,"Falta/sin vision, Espejos Retrovisores",otras,3012
+2025,6470,Falta Tapa Combustible,otras,13
+2025,6490,Conducir utilizando Celular / Auriculares / Reproductor de video,otras,27814
+2025,6492,Conductor redactando/enviando mensaje de texto,otras,4773
+2025,6501,Permitir Viajar personas impedidas en asiento delantero,velocidad,1999
+2025,6510,Exceso de Velocidad,velocidad,1
+2025,6519,No respetar limites de velocidad minimos,velocidad,1
+2025,6520,Exceso de Velocidad,velocidad,1
+2025,6525,Exceso Velocidad hasta 10Km/h de la Máxima permitida para el tipo de arteria,velocidad,180
+2025,6526,Exceso Velocidad más de 10Km/h y hasta 20Km/h de la Máxima permitida para el tipo de arteria,velocidad,2
+2025,6527,Exceso Velocidad hasta 20Km/h de la Máxima permitida en vías rápidas,velocidad,2542
+2025,6528,Exceso Velocidad más de 20Km/h y hasta 40Km/h de la Máxima permitida en vías rápidas,velocidad,1586
+2025,6530,Exceso Velocidad más de 40Km/h de la Máxima permitida en vías rápidas y hasta 140 km/h,velocidad,5
+2025,6531,Exceso Velocidad más de 140Km/h,velocidad,2300
+2025,6534,Exceso de velocidad de 0 a 10% mas de la velocidad permitida,velocidad,1268557
+2025,6535,Exceso de velocidad de 10% a 30% ms de la velocidad permitida,velocidad,1255666
+2025,6536,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Particulares),velocidad,114536
+2025,6537,Exceso de velocidad de 30% mas de la velocidad permitida hasta 140Km/h  (Tte.Pasajeros),velocidad,28835
+2025,6540,Circulación en sentido contrario,velocidad,2584
+2025,6542,Asignar viaje a Repartidor/Mensajero con habilitac.vencida/habilitac.vehíc. vencida,velocidad,1
+2025,6547,No proveer seguros a mensajeros/repartidores s/Cap.13.6 Cód Tránsito y Transito,velocidad,2
+2025,6552,Servicio mensajería/reparto en Motovehiculo sin hab /hab vencida /excede límite del objeto,velocidad,34
+2025,6560,Invasión parcial de vías,velocidad,115
+2025,6580,No respetar carriles/Maniobras Peligrosas,velocidad,7088
+2025,6600,Girar a izquierda/derecha en lugar prohibido,otras,7869
+2025,6620,No respetar paso o cartel PARE en bocacalle,otras,43
+2025,6640,Marcha atras en forma indebida,otras,276
+2025,6660,Forzar barrera/evadir pago peaje autopista,peajes,1750457
+2025,6680,Obstruir vía Transversal/Ciclovía/Vereda/Estac. reservado,otras,7072
+2025,6700,No ceder Paso a Polic/Bombe/Ambula/Serv.Pub.o Urgen.,otras,47
+2025,6720,Interrumpir Filas Escolares,otras,12
+2025,6740,No respetar Senda Peatonal/Paso Peaton,otras,99039
+2025,6760,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,carriles,341742
+2025,6761,"Carriles o vías prohíbidas (tránsito rápido,diferenciado,metrobus)",carriles,266377
+2025,6762,"Carriles o vías prohíbidas (ciclovía,contramano en contracarril)",otras,11376
+2025,6763,Circular por Zona/Carril o c/peso/poten./tamaño Prohibido,otras,14868
+2025,6780,Prohib.circular según DIA/HORA/CARAC.VEHIC (vehículos),otras,134
+2025,6781,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES (moto),otras,16
+2025,6782,Prohib.circular según DIA/HORA/CARAC.VEHIC y/u OCUPANTES s/norma 5.3.2.i Ley2148 (MOTO),otras,4
+2025,6800,Nro.ocupantes mayor a capacidad vehiculo,otras,233
+2025,6820,No respetar lugar asc/desc-acercar a acera/puertas abiertas etc(pasajeros),otras,592
+2025,6830,Ocupar lugar no destinado para viajar,otras,16
+2025,6840,No cumplir norma uso radio/reproductor sonido/fumar/trato al pasajero,otras,23
+2025,6850,No cumplir norma horario/ropa/requisito vehiculo Tte. pasajero,otras,14
+2025,6860,No Cumplir Normas s/requisitos Vehículos Escolares c/habilitación,otras,1
+2025,6862,Conducir sin poseer la licencia,otras,3132
+2025,6870,No Cumplir Normas s/requisitos Vehículos de Transporte c/habilitación,otras,22
+2025,6871,Servicio de Taxis Sin Habilitación,otras,11
+2025,6875,"Servicio de radio taxi, titular o mandataria que realice promociones o cobre tarifa no autorizada",otras,1
+2025,6876,No aplicación de la tarifa de taxi vigente,otras,1
+2025,6877,No Cumplir Normas/requisitos Vehículos de Transporte sin habilitación,otras,13
+2025,6878,Requisitos de los vehiculos de transporte de carga,otras,6
+2025,6879,Requisitos de los vehiculos de transporte de carga sin habilitacion,otras,53
+2025,6880,No cumplir norma  Peso/dimen/permisos/carga descubierta/seguro(carga),otras,19
+2025,6881,"Transporte de carga (transp.Explosivos, inflamables, animales, etc.)",otras,3
+2025,6882,Prestacion servicio publico Taxis c/licencia taxi vencida (dentro 360 vencida),otras,24
+2025,6883,Prestacion servicio publico Taxis c/licencia vencida (mas de 360 vencida),otras,8
+2025,6890,Carga y descarga fuera de hora/lugar prohibido,otras,589
+2025,6900,Estac. lugar prohib./forma indebida/antirreglamentaria,estacionamiento,249738
+2025,6907,Estacionar en doble fila,estacionamiento,19680
+2025,6910,Estac. LUGAR RESERVADO (paradas/garage/ciclovias/carril exclusivo/Micro-Macrocentro/otros),estacionamiento,128465
+2025,6911,Estacionar en LUGAR RESERVADO Vehíc. Persona discapac./RAMPA discapac.,estacionamiento,12781
+2025,6920,Estac. lugar sin ticket/hora vencida,estacionamiento,139279
+2025,6935,Estacionamiento en areas peatonales,estacionamiento,42046
+2025,6950,Enseñar conduccion en lugar no autorizado,estacionamiento,10
+2025,6960,Enseñar conduccion (por Academia) en lugar no autorizado,estacionamiento,7
+2025,6970,Peaton: No respetar lugar cruce calles/aven./semaforos,estacionamiento,179
+2025,6980,No respetar indicaciones Autoridad dirige Transito,estacionamiento,11723
+2025,7001,Infraccion regimen motovehiculos,alcohol_otros,4798
+2025,7002,Circular con acompañante que no usa el  CHALECO reflectante obligatorio (MOTO),alcohol_otros,210
+2025,7010,Circular sin utilizar Antiparras (Moto/Ciclomotor/motoneta),alcohol_otros,24
+2025,7021,(Ciclorodado) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,26
+2025,7022,(Dispositivo movilidad personal) Regimen ciclorodados y dipositivos de movilidad personal,alcohol_otros,2
+2025,7030,Incumplir Normas Tte.Privado pasajeros/Alquiler auto s/chofer,alcohol_otros,4
+2025,7045,Obstruccion de estacionamiento y/o circulacion,alcohol_otros,955
+2025,7050,Violar Luz Roja,alcohol_otros,97067
+2025,7062,Negarse a someterse al control de alcoholemia/estupefac/otra sustancia similar (conductor/acompaña),alcohol,286
+2025,7063,Contribución a conducción peligrosa.,alcohol_otros,172
+2025,7064,Utilizar en infraccion cartel/credencial/documento sobre franquicia transito/estacionamiento,alcohol_otros,6397
+2025,7065,Uso indebido de luces,alcohol_otros,50
+2025,7066,Utilizacion de luces prohibidas,alcohol_otros,39
+2025,7462,Conducir con nivel alcohol mayor 0.5 y menor 1 gr/Lt/sangre (vehículo),alcohol,2727
+2025,7463,Conducir con nivel alcohol mayor 0.2 y menor 1 gr/Lt/sangre (Moto),alcohol,293
+2025,7464,Conducir con nivel alcohol mayor 0.0 y menor 1 gr/Lt/sangre (Tte Pasajeros/Carga/principiante),alcohol,144
+2025,7467,Afectar calzada sin autorizacion c/evento/obra q no implica apertura/rotura,alcohol_otros,14
+2025,7468,Afectar calzada c/evento/obra q no implica apertura/rotura (excede autorizacion),alcohol_otros,6
+2025,7469,Afectar calzada c/evento/obra (incumple manual señalizacion vial transitoria),alcohol_otros,3
+2025,7540,No cumplir Norma de habilitacion tecnica Remise/Escolares/Taxi,alcohol_otros,1
+2025,8080,Abandonar vehiculo en la via publica,otras,4
+2025,8880,Incumplimiento de identificacion de conductor,otras,30800
+2025,8884,Señalizacion de obras,otras,10
+2025,8885,"Paradas, otras señales y simbolos",otras,167
+2025,8886,Conductores principiantes,otras,10
+2025,8910,Violación de Barreras Ferroviarias - Particular,otras,478
+2025,8911,Violación de Barreras Ferroviarias - Transporte,otras,8
+2025,8916,Habilitación de empresa de radio taxi vencida (mas de 30 y hasta 180 días),otras,2
+2025,8923,Promociones de radio taxi,otras,1
+2025,8926,Nomina de abonados (prestar servicio con menor cantidad de abonados),otras,2
+2025,8942,"Taxi , transp escolar, remise, vehic fantasia , otro sin autorizacion",otras,115
+2025,8943,Vehic transporte pasajeros no cumple con VTV,otras,122
+2025,8944,Vehic transporte pasajeros en infraccion,otras,71

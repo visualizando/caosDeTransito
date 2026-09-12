@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-09-12T19:26:05.987136",
+  "files": {
+    "infracciones_2016": {
+      "file": "INFRACCIONES 2016.xls",
+      "sha256": "4af561a0c4b4e5b7a468d7d326568d335360b77d733f6989b1340db0991d29c4",
+      "size_bytes": 74752
+    },
+    "infracciones_2017": {
+      "file": "INFRACCIONES 2017.xls",
+      "sha256": "dad637c86e09e7260402db7b0a0534f3414780b1e0dced44e547274ab16fded1",
+      "size_bytes": 78336
+    },
+    "infracciones_2018": {
+      "file": "INFRACCIONES 2018.xls",
+      "sha256": "1db91508f0e676076e4a52162707068c66d512431fb1c32b8d56a2e2b9425ee5",
+      "size_bytes": 81408
+    },
+    "infracciones_2019": {
+      "file": "INFRACCIONES 2019.xls",
+      "sha256": "ecb9d14547c11b0e2b74fa20464bf7c60eaf270319f053fa99ef9ac694e06753",
+      "size_bytes": 79872
+    },
+    "infracciones_2020": {
+      "file": "INFRACCIONES 2020.xls",
+      "sha256": "502cdbc04fd8c859de1a5670f6526b60184a4a6b7cfe3c300ee8eaa8f428b577",
+      "size_bytes": 77824
+    },
+    "infracciones_2021": {
+      "file": "INFRACCIONES 2021.xls",
+      "sha256": "9dbfc38f5a5f44c41a4220746e8a82e8562361c9ef05edd9897edbb45507d653",
+      "size_bytes": 80384
+    },
+    "infracciones_2022": {
+      "file": "INFRACCIONES 2022.xls",
+      "sha256": "50db2ae67f946771d34ba1584a0ffe8adb0f9dfc5d8ea8bac4c1912396280efc",
+      "size_bytes": 82432
+    },
+    "infracciones_2023": {
+      "file": "INFRACCIONES 2023.xls",
+      "sha256": "95b721c92d76cd13e770e957de89c766d1aa439fd399f9050049a0b128af805d",
+      "size_bytes": 83456
+    },
+    "infracciones_2024": {
+      "file": "INFRACCIONES 2024.xls",
+      "sha256": "4da07420c93d05f5260638add4d524e2a161d01c7ee4c9aa5b62604e870d67f6",
+      "size_bytes": 81408
+    },
+    "infracciones_2025": {
+      "file": "INFRACCIONES 2025.xls",
+      "sha256": "5da69e61dca85fd4782904f699dc40c56355ba00217c7b4f0a1605410488192a",
+      "size_bytes": 79360
+    },
+    "actas_procesadas": {
+      "file": "ESTADISTICA ACTAS PROCESADAS 2016-2025.xlsx",
+      "sha256": "e3d6ddef81c9d77ac24108e76131fbf394028021054cff1aa06859e4861d4cb4",
+      "size_bytes": 20731
+    },
+    "actas_resueltas": {
+      "file": "ACTAS RESUELTAS 2018-2025.xlsx",
+      "sha256": "62f682ad8e8ee02c9059ea44d1a1c70c1efd4fa260945bd562a2c01269fdd59c",
+      "size_bytes": 13641
+    },
+    "acarreos_playas": {
+      "file": "Playas Propias.xlsx",
+      "sha256": "5c4a6c089459c9150ae9ee24860dacc826543fb87e7f794b87ba9e7c294d9eae",
+      "size_bytes": 682111
+    }
+  },
+  "counts": {
+    "infracciones_rows": 1509,
+    "infracciones_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "infracciones_codes": 211,
+    "actas_procesadas_rows": 120,
+    "actas_resueltas_rows": 96,
+    "acarreos_rows": 20935
+  },
+  "checks": {
+    "kpis_years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "infracciones_total_2025": 6099074,
+    "tasa_resolucion_2025": 0.6440536173979762
+  }
+}
