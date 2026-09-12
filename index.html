@@ -8,21 +8,20 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#ffffff; --bg2:#f6f7f9; --card:#ffffff; --card2:#ffffff;
-  --border:#e3e6ea; --text:#1a202c; --muted:#697386; --accent:#0f766e;
-  --red:#dc2626; --yellow:#d97706; --green:#059669; --blue:#2563eb; --purple:#7c3aed;
+  --bg:#ffffff; --bg2:#f6f7f9; --card:#ffffff; --border:#e3e6ea;
+  --text:#1a202c; --muted:#697386; --accent:#0f766e;
+  --red:#dc2626; --amber:#d97706; --green:#059669; --blue:#2563eb; --purple:#7c3aed;
   --mono:'IBM Plex Mono',monospace; --sans:'IBM Plex Sans',sans-serif;
 }
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.5}
 .wrap{max-width:1040px;margin:0 auto;padding:0 20px}
 
-/* Header */
-header{padding:56px 0 24px;border-bottom:1px solid var(--border);margin-bottom:36px}
+header{padding:56px 0 22px;border-bottom:1px solid var(--border);margin-bottom:32px}
 header .kicker{font-family:var(--mono);font-size:12px;color:var(--accent);letter-spacing:.18em;text-transform:uppercase;margin-bottom:10px}
 header h1{font-size:44px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
 header h1 span{color:var(--accent)}
-header .subt{color:var(--muted);font-size:16px;max-width:640px;margin-top:10px}
+header .subt{color:var(--muted);font-size:16px;max-width:680px;margin-top:10px}
 header .meta{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:18px}
 
 /* KPIs */
@@ -33,43 +32,47 @@ header .meta{font-family:var(--mono);font-size:11px;color:var(--muted);margin-to
 .kpi .delta{font-family:var(--mono);font-size:12px;margin-top:4px}
 .kpi .delta.up{color:var(--red)} .kpi .delta.down{color:var(--green)} .kpi .delta.flat{color:var(--muted)}
 
-/* Sections */
 section{margin-bottom:56px}
 section h2{font-size:24px;margin-bottom:6px;letter-spacing:-.01em}
-section .desc{color:var(--muted);font-size:15px;margin-bottom:22px;max-width:760px}
-.chart{background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:22px}
-.chart .title{font-family:var(--mono);font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-bottom:14px}
+section .desc{color:var(--muted);font-size:15px;margin-bottom:22px;max-width:780px}
+section .desc b{color:var(--text)}
 
-/* Tabs and filters */
-.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.chart{background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:22px 22px 14px}
+.chart .topline{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.chart .title{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--text);text-transform:uppercase;letter-spacing:.08em}
+.chart .subtitle{font-family:var(--mono);font-size:11px;color:var(--accent)}
+.chart .src{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:8px}
+.chart .note{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:4px}
+
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
 .tab{background:var(--bg);border:1px solid var(--border);color:var(--muted);font-family:var(--mono);font-size:12px;padding:7px 14px;border-radius:20px;cursor:pointer;transition:all .15s}
 .tab:hover{color:var(--text);border-color:var(--accent)}
 .tab.active{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:700}
-.legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:0;margin-bottom:14px;font-family:var(--mono);font-size:11px;color:var(--muted)}
-.legend .item{display:flex;align-items:center;gap:6px}
-.legend .sw{width:10px;height:10px;border-radius:2px;display:inline-block}
 
-/* d3 */
+.legend{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:14px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.legend .item{display:flex;align-items:center;gap:6px}
+.legend .sw{width:12px;height:12px;border-radius:2px;display:inline-block}
+
 .axis text{font-family:var(--mono);font-size:11px;fill:var(--muted)}
 .axis path,.axis line{stroke:var(--border)}
+.grid line{stroke:var(--border);stroke-dasharray:3,4;opacity:.6}
+.grid path{display:none}
 .line{fill:none;stroke-width:2.5;stroke-linecap:round}
 .barlabel{font-family:var(--mono);font-size:11px;fill:var(--muted)}
+.axislabel{font-family:var(--mono);font-size:11px;fill:var(--muted);text-transform:uppercase;letter-spacing:.05em}
 
-/* Tables / lists */
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 @media(max-width:800px){.grid2{grid-template-columns:1fr}}
 
-/* Tooltip */
-.tip{position:absolute;background:#ffffff;border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-family:var(--mono);font-size:12px;pointer-events:none;opacity:0;transition:opacity .12s;z-index:50;box-shadow:0 8px 24px rgba(26,32,44,.12);max-width:280px}
+.tip{position:absolute;background:#ffffff;border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-family:var(--mono);font-size:12px;pointer-events:none;opacity:0;transition:opacity .12s;z-index:50;box-shadow:0 8px 24px rgba(26,32,44,.15);max-width:300px}
 .tip .t-title{font-size:12px;font-weight:700;color:var(--text);margin-bottom:4px}
 .tip .t-row{color:var(--muted);margin-top:2px}
 .tip .t-val{color:var(--accent);font-weight:700}
 
 select,input[type=range]{background:#fff;border:1px solid var(--border);color:var(--text);font-family:var(--mono);font-size:12px;padding:8px 10px;border-radius:8px}
 label.field{font-family:var(--mono);font-size:11px;color:var(--muted);margin-right:8px}
-.controls{display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+.controls{display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
 
-/* Var selector */
 .var-btns{display:flex;gap:6px;flex-wrap:wrap}
 .vbtn{background:transparent;border:1px solid var(--border);color:var(--muted);font-family:var(--mono);font-size:11px;padding:5px 10px;border-radius:6px;cursor:pointer;transition:all .15s}
 .vbtn:hover{color:var(--text)}
@@ -86,7 +89,7 @@ b{color:var(--text)}
 <div class="wrap">
 
 <header>
-  <div class="kicker">Observatorio Ciudadano · Visualizando</div>
+  <div class="kicker">Observatorio ciudadano · Visualizando</div>
   <h1>Caos de <span>Tránsito</span> CABA</h1>
   <p class="subt">Infracciones viales, actas, controles de alcoholemia y acarreos en la Ciudad de Buenos Aires. Datos obtenidos por Ley 104 de Acceso a la Información Pública (DGAI y DGCATRA del GCBA).</p>
   <p class="meta" id="meta-info">Cargando...</p>
@@ -96,89 +99,113 @@ b{color:var(--text)}
 
 <section id="s-resumen">
   <h2>El tablero de una ciudad que factura</h2>
-  <p class="desc">En 2025 se proyectaron <b>6,1 millones de actas</b>, récord histórico. La velocidad y la evasión de peajes explican casi el 75% de las infracciones. Este panel cruza las tres palancas del control vial: laburar, cobrar y acarrear.</p>
+  <p class="desc">En 2025 se proyectaron <b>6,1 millones de actas</b>, récord histórico. La velocidad y la evasión de peajes explican casi el 75% de las infracciones. Este panel cruza las tres palancas del control vial: procesar actas, cobrar multas y acarrear vehículos.</p>
 </section>
 
 <section id="s-totales">
   <h2>Volumen total de infracciones</h2>
   <p class="desc">Evolución de actas de infracción procesadas y resueltas año a año. Se observa el impacto de la pandemia (2020), la recuperación y el pico de 2024-2025 impulsado por radares y autopistas.</p>
-  <div class="chart"><div class="title">Actas por año (2016-2025)</div>
+  <div class="chart">
+    <div class="topline"><div class="title" id="t-totales">Infracciones totales por año</div><div class="subtitle" id="sub-totales"></div></div>
     <div class="tabs" id="tab-totales">
       <span class="tab active" data-mode="total">Infracciones totales</span>
-      <span class="tab" data-mode="proc">Procesadas vs Resueltas</span>
-      <span class="tab" data-mode="fotos">Fotos vs Manuales</span>
+      <span class="tab" data-mode="proc">Procesadas vs resueltas</span>
+      <span class="tab" data-mode="fotos">Fotos vs manuales</span>
     </div>
+    <div class="legend" id="legend-totales"></div>
     <div id="viz-totales"></div>
+    <div class="src">Fuente: DGAI–GCABA · Estadística de actas procesadas 2016-2025 y actas resueltas 2018-2025 · Ley 104 EX-2026-06205479-GCABA-DGAIGA</div>
+    <div class="note">Nota: "procesadas" = actas ingresadas al sistema en el año; "resueltas" = resueltas (difieren por fecha de proceso, por eso la tasa excede 100% en algunos años).</div>
   </div>
 </section>
 
 <section id="s-cat">
   <h2>¿De qué se multa?</h2>
   <p class="desc">Composición por categoría de código de infracción. En 2020 la ciudad cambió la codificación de exceso de velocidad (de km/h a % sobre el límite) y en 2022 sumó los códigos específicos de alcohol (7462, 7463, 7464).</p>
-  <div class="legend" id="legend-cat"></div>
   <div class="chart">
-    <div class="title">Evolución por categoría (área 100% o total)</div>
+    <div class="topline"><div class="title">Evolución por categoría</div><div class="subtitle" id="sub-cat"></div></div>
     <div class="tabs" id="tab-cat">
       <span class="tab active" data-mode="stack">Apilado</span>
       <span class="tab" data-mode="pct">% participación</span>
     </div>
+    <div class="legend" id="legend-cat"></div>
     <div id="viz-cat"></div>
+    <div class="src">Fuente: DGAI–GCABA · Estadística de códigos de infracción por año 2016-2025 · Ley 104</div>
+    <div class="note">Nota: la categoría "velocidad" agrupa códigos 65xx; en 2020 cambió de medición en km/h a porcentaje sobre el límite, por eso no es comparable lineal entre épocas.</div>
   </div>
 </section>
 
 <section id="s-top">
   <h2>Los códigos estrella</h2>
-  <p class="desc">Top 20 tipos de infracción en 2025. Tres de cada cuatro actas provienen de exceso de velocidad, peaje y carriles prohibidos.</p>
+  <p class="desc">Top de tipos de infracción por año, con filtro por categoría. Tres de cada cuatro actas de 2025 provienen de exceso de velocidad, peaje y carriles prohibidos.</p>
   <div class="chart">
-    <div class="title">Top 20 códigos · 2025</div>
+    <div class="topline"><div class="title" id="t-top">Top 20 códigos · 2025</div><div class="subtitle" id="sub-top"></div></div>
     <div class="controls">
-      <label class="field">Año:</label>
+      <label class="field">Año</label>
       <input type="range" id="top-year" min="2016" max="2025" value="2025" step="1">
-      <span id="top-year-val" style="font-family:mono;font-size:12px;color:var(--muted)">2025</span>
+      <span id="top-year-val" style="font-family:mono;font-size:12px;color:var(--muted);min-width:40px">2025</span>
+      <label class="field">Categoría</label>
       <div class="var-btns" id="top-var"></div>
     </div>
     <div id="viz-top"></div>
+    <div class="src">Fuente: DGAI–GCABA · Códigos de infracción por año · Ley 104</div>
   </div>
 </section>
 
 <section id="s-alcohol">
   <h2>Alcoholemia: el control que incomoda</h2>
-  <p class="desc">Las actas por alcohol se dispararon con los nuevos códigos en 2022: pasaron de ~200 a más de 6.700 en ese año. El "+55" que bajó la tolerancia a cero para motos y transporte en 2022 se lee en el detalle.</p>
+  <p class="desc">Las actas por alcohol se dispararon con los nuevos códigos en 2022: pasaron de ~200 a más de 6.700 ese año. La norma de tolerancia cero para motos y transporte y su endurecimiento en 2022 se leen en el detalle.</p>
   <div class="grid2">
-    <div class="chart"><div class="title">Evolución anual (alcohol + negativa)</div><div id="viz-alcohol"></div></div>
-    <div class="chart"><div class="title">Detalle por código</div><div id="viz-alcohol-det"></div></div>
+    <div class="chart">
+      <div class="topline"><div class="title">Evolución anual de actas por alcohol</div></div>
+      <div id="viz-alcohol"></div>
+      <div class="src">Fuente: DGAI · Códigos 7462/7463/7464/7062 y anteriores</div>
+    </div>
+    <div class="chart">
+      <div class="topline"><div class="title">Detalle por código</div></div>
+      <div class="legend" id="legend-alcohol"></div>
+      <div id="viz-alcohol-det"></div>
+      <div class="src">Fuente: DGAI · Serie 2016-2025</div>
+      <div class="note">7462 auto 0,5-1 g/L · 7463 moto 0,2-1 g/L · 7464 transporte >0 g/L · 7062 negativa de control</div>
+    </div>
   </div>
 </section>
 
 <section id="s-acarreos">
   <h2>Los que terminan en la playa</h2>
-  <p class="desc">Vehículos acarreados a playas de depósito desde julio 2024. Los motivos principales: estacionamiento indebido, alcohol y transporte irregular (Uber).</p>
+  <p class="desc">Vehículos acarreados a playas de depósito desde julio 2024. Estacionamiento indebido, alcohol y transporte irregular (Uber) concentran los motivos.</p>
   <div class="chart">
-    <div class="title">Acarreos por motivo y mes</div>
-    <div class="legend" id="legend-acarreos"></div>
+    <div class="topline"><div class="title">Acarreos por motivo y mes</div><div class="subtitle" id="sub-acarreos"></div></div>
     <div class="tabs" id="tab-acarreos">
       <span class="tab active" data-mode="mensual">Serie mensual</span>
       <span class="tab" data-mode="tipo">Por tipo de vehículo</span>
       <span class="tab" data-mode="playa">Por playa</span>
     </div>
+    <div class="legend" id="legend-acarreos"></div>
     <div id="viz-acarreos"></div>
+    <div class="src">Fuente: DGCATRA–GCABA · Playas de depósito propias · Ley 104 EX-2026-38929184-GCABA-DGAIGA</div>
+    <div class="note">Nota: los motivos combinados (p. ej. ALCO/DOC) se normalizaron al motivo principal. El período cubre julio 2024 – 2026.</div>
   </div>
 </section>
 
 <section id="s-explorador">
   <h2>Explorador de códigos</h2>
-  <p class="desc">Buscá cualquier código de infracción y seguí su evolución histórica.</p>
-  <div class="controls">
-    <select id="code-select"></select>
-    <div id="code-info" style="font-family:mono;font-size:12px;color:var(--muted)"></div>
+  <p class="desc">Buscá cualquier código de infracción y seguí su evolución histórica 2016-2025.</p>
+  <div class="chart">
+    <div class="topline"><div class="title">Evolución del código seleccionado</div></div>
+    <div class="controls">
+      <select id="code-select"></select>
+      <div id="code-info" style="font-family:mono;font-size:12px;color:var(--muted)"></div>
+    </div>
+    <div id="viz-code"></div>
+    <div class="src">Fuente: DGAI–GCABA · Estadística de códigos de infracción 2016-2025 · Ley 104</div>
   </div>
-  <div class="chart"><div class="title">Evolución del código seleccionado</div><div id="viz-code"></div></div>
 </section>
 
 <footer>
   <div class="row">
     <span>Datos: DGAI · DGCATRA · GCBA — Ley 104 (EX-2026-06205479 / EX-2026-38929184)</span>
-    <span>Hecho con <b>Python</b> + <b>D3.js</b> · <a href="https://github.com/visualizando/caosDeTransito">repo</a></span>
+    <span>Hecho con Python + D3.js · <a href="https://github.com/visualizando/caosDeTransito">repo</a></span>
   </div>
 </footer>
 

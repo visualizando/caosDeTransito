@@ -315,7 +315,7 @@ def export_all(inf, proc, res, arr):
             ORDER BY total_total DESC
         """, con).to_dict("records")),
         "serie_por_codigo": clean(pd.read_sql("""
-            SELECT codigo, anio, total FROM v_infracciones_top_codigos ORDER BY codigo, anio
+            SELECT codigo, anio, descripcion, categoria, total FROM v_infracciones_top_codigos ORDER BY codigo, anio
         """, con).to_dict("records")),
         "metadata": {
             "generated_at": datetime.now().isoformat(),
